@@ -1,0 +1,1 @@
+Laurent Laporte’s professional project, bio and CV.
