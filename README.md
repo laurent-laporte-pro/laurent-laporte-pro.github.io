@@ -30,10 +30,22 @@ Cette bibliothèque permet de générer un site web statique à partir de fichie
 Pour une meilleure intégration avec `hatch`, nous utilisons le
 plugin [hatch-mkdocs](https://github.com/oprypin/hatch-mkdocs).
 
-Pour construire la documentation, exécutez la commande suivante:
+Pour construire la documentation, exécutez la commande suivante :
 
 ```bash
-hatch run docs:build
+hatch hatch run mkdocs build
+```
+
+Pour visualiser la documentation en local, exécutez la commande suivante :
+
+```bash
+hatch hatch run mkdocs serve
+```
+
+Pour déployer la documentation sur GitHub Pages, exécutez la commande suivante :
+
+```bash
+hatch hatch run mkdocs gh-deploy
 ```
 
 ## Licence

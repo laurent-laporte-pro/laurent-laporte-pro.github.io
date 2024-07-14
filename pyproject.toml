@@ -8,7 +8,7 @@ dynamic = ["version"]
 description = 'Static website to present my résumé'
 readme = "README.md"
 requires-python = ">=3.8"
-license = "Proprietary"
+license= {file = "LICENCE.md"}
 keywords = ["static-website", "resume", "curriculum-vitae", "cv"]
 authors = [
     { name = "Laurent LAPORTE", email = "laurent.laporte.pro@gmail.com" },
@@ -26,17 +26,14 @@ classifiers = [
 ]
 dependencies = [
     'mkdocs',
-    'hatch-mkdocs',
+    'mkdocs-material',
 ]
 
 [project.urls]
-Documentation = "https://github.com/Laurent LAPORTE/laurent-laporte-pro-github-io#readme"
-Issues = "https://github.com/Laurent LAPORTE/laurent-laporte-pro-github-io/issues"
-Source = "https://github.com/Laurent LAPORTE/laurent-laporte-pro-github-io"
+Documentation = "https://github.com/laurent-laporte-pro/laurent-laporte-pro-github-io#readme"
+Issues = "https://github.com/laurent-laporte-pro/laurent-laporte-pro-github-io/issues"
+Source = "https://github.com/laurent-laporte-pro/laurent-laporte-pro-github-io"
 'GitHub Pages' = "https://laurent-laporte-pro.github.io/"
 
 [tool.hatch.version]
-path = "src/__about__.py"
-
-[tool.hatch.env.collectors.mkdocs.docs]
-path = "mkdocs.yml"
+path = "src/laurent_laporte_pro_github_io/__about__.py"

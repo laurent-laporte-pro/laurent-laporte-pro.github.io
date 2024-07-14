@@ -1,0 +1,35 @@
+site_name: Laurent LAPORTE
+site_description: "Laurent LAPORTE's Professional Profile"
+site_author: Laurent LAPORTE
+site_url: https://laurent-laporte-pro.github.io/
+
+nav:
+  - index.md
+  - fr.md
+  - en.md
+  - de.md
+
+theme:
+  # https://squidfunk.github.io/mkdocs-material/getting-started/
+  name: material
+  language: fr
+  favicon: images/favicon.png
+  palette:
+    primary: 'orange'
+    accent: 'light-orange'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  features:
+    - search.suggest
+    - navigation.footer
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/laurent-laporte-pro/
+    - icon: fontawesome/brands/github
+      link: https://github.com/laurent-laporte-pro/
