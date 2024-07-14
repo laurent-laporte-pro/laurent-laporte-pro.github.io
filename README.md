@@ -1,21 +1,43 @@
-# laurent-laporte-pro.github.io
+---
+title: laurent-laporte-pro.github.io
+description: A Python package to install my personal website.
+---
 
-[![PyPI - Version](https://img.shields.io/pypi/v/laurent-laporte-pro-github-io.svg)](https://pypi.org/project/laurent-laporte-pro-github-io)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/laurent-laporte-pro-github-io.svg)](https://pypi.org/project/laurent-laporte-pro-github-io)
+# Curriculum Vitae de Laurent LAPORTE
 
------
-
-## Table of Contents
+## Table des matières
 
 - [Installation](#installation)
-- [License](#license)
+- [Licence](#licence)
 
 ## Installation
 
-```console
-pip install laurent-laporte-pro-github-io
+Ce projet Python permet de générer mon site web personnel.
+
+Il utilise le gestionnaire de projet [hatch](https://hatch.pypa.io/latest/) pour gérer les dépendances,
+les tâches de construction et de déploiement de la documentation sur GitHub Pages.
+
+⇨ Consultez la documentation de [hatch](https://hatch.pypa.io/latest/install/) pour installer cette commande
+sur votre machine.
+
+> **Remarque**: en général, on installe hatch de manière globale et non pas dans un environnement virtuel.
+
+## Génération de la documentation
+
+Pour générer la documentation, nous utilisons [mkdocs](https://www.mkdocs.org/).
+Cette bibliothèque permet de générer un site web statique à partir de fichiers Markdown.
+
+Pour une meilleure intégration avec `hatch`, nous utilisons le
+plugin [hatch-mkdocs](https://github.com/oprypin/hatch-mkdocs).
+
+Pour construire la documentation, exécutez la commande suivante:
+
+```bash
+hatch run docs:build
 ```
 
-## License
+## Licence
 
-`laurent-laporte-pro-github-io` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+Ce projet est privé et ne peut être utilisé sans l'autorisation de l'auteur.
+
+Consultez le fichier [LICENCE.md](LICENCE.md) pour plus d'informations.
