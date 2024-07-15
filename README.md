@@ -8,6 +8,7 @@ description: A Python package to install my personal website.
 ## Table des matières
 
 - [Installation](#installation)
+- [Génération de la documentation](#generation-de-la-documentation)
 - [Licence](#licence)
 
 ## Installation
@@ -15,7 +16,7 @@ description: A Python package to install my personal website.
 Ce projet Python permet de générer mon site web personnel.
 
 Il utilise le gestionnaire de projet [hatch](https://hatch.pypa.io/latest/) pour gérer les dépendances,
-les tâches de construction et de déploiement de la documentation sur GitHub Pages.
+les tâches de construction et de déploiement de la documentation sur [GitHub Pages](https://laurent-laporte-pro.github.io/).
 
 ⇨ Consultez la documentation de [hatch](https://hatch.pypa.io/latest/install/) pour installer cette commande
 sur votre machine.
