@@ -27,9 +27,6 @@ sur votre machine.
 Pour générer la documentation, nous utilisons [mkdocs](https://www.mkdocs.org/).
 Cette bibliothèque permet de générer un site web statique à partir de fichiers Markdown.
 
-Pour une meilleure intégration avec `hatch`, nous utilisons le
-plugin [hatch-mkdocs](https://github.com/oprypin/hatch-mkdocs).
-
 Pour construire la documentation, exécutez la commande suivante :
 
 ```bash
