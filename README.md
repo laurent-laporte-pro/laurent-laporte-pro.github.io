@@ -3,7 +3,7 @@ title: laurent-laporte-pro.github.io
 description: A Python package to install my personal website.
 ---
 
-# Curriculum Vitae de Laurent LAPORTE
+# Curriculum Vitæ de Laurent LAPORTE
 
 ## Table des matières
 
@@ -20,7 +20,7 @@ les tâches de construction et de déploiement de la documentation sur GitHub Pa
 ⇨ Consultez la documentation de [hatch](https://hatch.pypa.io/latest/install/) pour installer cette commande
 sur votre machine.
 
-> **Remarque**: en général, on installe hatch de manière globale et non pas dans un environnement virtuel.
+> **Remarque**: en général, on installe `hatch` de manière globale et non pas dans un environnement virtuel.
 
 ## Génération de la documentation
 
