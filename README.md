@@ -8,7 +8,7 @@ description: A Python package to install my personal website.
 ## Table des matières
 
 - [Installation](#installation)
-- [Génération de la documentation](#generation-de-la-documentation)
+- [Génération de la documentation](#génération-de-la-documentation)
 - [Licence](#licence)
 
 ## Installation
