@@ -31,19 +31,19 @@ Cette bibliothèque permet de générer un site web statique à partir de fichie
 Pour construire la documentation, exécutez la commande suivante :
 
 ```bash
-hatch hatch run mkdocs build
+hatch run mkdocs build
 ```
 
 Pour visualiser la documentation en local, exécutez la commande suivante :
 
 ```bash
-hatch hatch run mkdocs serve
+hatch run mkdocs serve
 ```
 
 Pour déployer la documentation sur GitHub Pages, exécutez la commande suivante :
 
 ```bash
-hatch hatch run mkdocs gh-deploy
+hatch run mkdocs gh-deploy
 ```
 
 ## Licence
