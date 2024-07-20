@@ -14,8 +14,8 @@ theme:
   language: fr
   favicon: images/favicon.png
   palette:
-    primary: 'orange'
-    accent: 'light-orange'
+    primary: 'blue'
+    accent: 'light-blue'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
@@ -44,3 +44,6 @@ extra:
     - name: 🇩🇪 Deutsch
       link: /de/
       lang: de
+
+extra_css:
+  - stylesheets/extra.css
