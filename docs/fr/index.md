@@ -87,7 +87,7 @@ Pour le compte de l’Office des Publications Officielles des Communautés Europ
 
 #### Ingénieur Logiciel
 
-Pour le compte de la Bibliothèque Nationale de France (BNF) à Paris et autres collectivités territoriales.
+Pour le compte de la Bibliothèque nationale de France (BnF) à Paris et autres collectivités territoriales.
 
 - Développement d'un workflow de numérisation et d'indexation de documents patrimoniaux.
 - Mise en place de bonnes pratiques de développement.
@@ -278,6 +278,7 @@ de documents de spécification et maquettage).
 > **Environnement métier :** Édition, Publication, Formation, Relation clientèle, Sous-traitance, Mairies,
 > Collectivités locales.
 
+
 ## Formations
 
 ### CEL CCI de la Mayenne
@@ -301,7 +302,7 @@ DIPLÔME D’INGÉNIEUR : Génie Logiciel - Production Logiciel
 ## Compétences
 
 ### Outils et langages de programmation
-   
+
 Agile, Apache, Arrow, Black, C++, CentOS, CI/CD, Confluence, CSS, Django REST framework, DocBook, Docker,
 Dreamweaver, DSSSL, ELK, Excel, FastAPI, Git, GitHub, GitLab, Hatch, HTML, iSort, Java, JavaScript, Jenkins,
 Jira, Linux, macOS, Miles 33 Oasys, MyPy, MySQL, OmniMark (Stilo), OpenAPI, Pandas, PDF, Perl, PHP,
@@ -340,9 +341,9 @@ J'ai aussi pratiqué la boxe loisir.
 ### En tant que Project Leader
 
 - [AntaREST](https://github.com/AntaresSimulatorTeam/AntaREST) – A Python library to interact with Antares Web API.
-- [Deprecated](https://github.com/tantale/deprecated) – Python `@deprecated` decorator to deprecate old python classes, functions or methods.
+- [Deprecated](https://github.com/tantale/deprecated) – Python `@deprecated` decorator to mark old Python classes, functions, or methods.
 - [docx-utils](https://github.com/tantale/docx_utils) – Creation and manipulation of Open XML documents (mainly docx).
-- [Benker](https://github.com/laurent-laporte-pro/benker) – Organize your data in a spatial grid system for CALS, HTML, Open XML tables conversion. (en développement)
+- [Benker](https://github.com/laurent-laporte-pro/benker) – Organize your data in a spatial grid system for CALS, HTML, and Open XML tables conversion (work in progress).
 - [jquery-worked-hours-grid](https://github.com/tantale/jquery-worked-hours-grid) – jQuery plugin used to calculate worked durations in worked hours grids.
 
 ### En tant que contributeur
@@ -350,7 +351,7 @@ J'ai aussi pratiqué la boxe loisir.
 - [pip](https://github.com/pypa/pip) – The Python Package Installer
 - [OpenPyXl](https://foss.heptapod.net/openpyxl/openpyxl) – A Python library to read/write Excel 2010 xlsx/xlsm files
 - [Sphinx](https://github.com/sphinx-doc/sphinx) – Python documentation generator
-- [LegiPy](https://github.com/regardscitoyens/legipy) – Python client for <https://www.legifrance.gouv.fr/> website
+- [LegiPy](https://github.com/regardscitoyens/legipy) – Python client for the [Légifrance](https://www.legifrance.gouv.fr/) website
 - [EbookLib](https://github.com/aerkalov/ebooklib) – Python E-book library for handling books in EPUB2/EPUB3 and Kindle format
 - [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) – Enhanced cookiecutter template for Python libraries.
-- [cookiecutter-pypackage-minimal](https://github.com/kragniz/cookiecutter-pypackage-minimal) – A minimal template for python packages
+- [cookiecutter-pypackage-minimal](https://github.com/kragniz/cookiecutter-pypackage-minimal) – A minimal template for Python packages
