@@ -8,7 +8,7 @@ tags: [ curriculum vitae, Lebenslauf, beruflicher Werdegang, Kompetenzen, Ausbil
 <img alt="Profil von Laurent LAPORTE" src="../images/profile-laurent-laporte.png" title="Laurent LAPORTE"
      style="float: right; margin: 0 0 1em 1em; width: 223px; height: 223px"/>
 
-# Über mich
+## Über mich
 
 - LAURENT LAPORTE
 - **Adresse:** 3, rue des Lilas, 53440 La Bazoge-Montpinçon, Frankreich
@@ -17,14 +17,14 @@ tags: [ curriculum vitae, Lebenslauf, beruflicher Werdegang, Kompetenzen, Ausbil
 
 Ich bin ein Softwareentwickler mit über 30 Jahren Erfahrung in der Entwicklung von Unternehmenssoftware.
 
-# Erfahrungen
+## Erfahrungen
 
-# Kurse
+## Kurse
 
-# Fähigkeiten
+## Fähigkeiten
 
-# Interessen
+## Interessen
 
-# Diplome
+## Diplome
 
-# Open Source
+## Open Source

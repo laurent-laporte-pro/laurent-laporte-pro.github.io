@@ -4,6 +4,7 @@ site_author: Laurent LAPORTE
 site_url: https://laurent-laporte-pro.github.io/
 
 nav:
+  - index.md
   - fr/index.md
   - en/index.md
   - de/index.md
@@ -22,6 +23,7 @@ theme:
   features:
     - search.suggest
     - navigation.footer
+    - toc.integrate
 
 plugins:
   - search
@@ -47,3 +49,8 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+
+markdown_extensions:
+  - toc:
+      permalink: false
+      toc_depth: 3

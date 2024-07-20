@@ -8,7 +8,7 @@ tags: [ curriculum vitæ, curriculum vitae, CV, parcours professionnel, compéte
 <img alt="Profile de Laurent LAPORTE" src="../images/profile-laurent-laporte.png" title="Laurent LAPORTE"
      style="float: right; margin: 0 0 1em 1em; width: 223px; height: 223px"/>
 
-# À propos
+## À propos
 
 - LAURENT LAPORTE
 - **Adresse :** 3, rue des Lilas, 53440 La Bazoge-Montpinçon, France
@@ -17,9 +17,9 @@ tags: [ curriculum vitæ, curriculum vitae, CV, parcours professionnel, compéte
 
 Je suis un développeur logiciel avec plus de 30 ans d'expérience dans le développement de logiciels d'entreprise.
 
-# Expériences
+## Expériences
 
-## INGÉNIEUR CONSEIL — TECHNICAL LEADER
+### INGÉNIEUR CONSEIL — TECHNICAL LEADER
 
 ⇨ du <input type="date" value="2023-01-09" readonly>
   au <input type="date" value="2024-07-12" readonly> **1 an 6 mois**
@@ -67,13 +67,13 @@ une application de simulation des études sur la consommation et la production d
 > **Environnement métier :** Antares, Documentation, Électricité, Énergie, Environnement, Formation, Projet,
 > Recrutement, Scrum, Simulation, Spécification, Veille technologique.
 
-## INGÉNIEUR LOGICIEL SÉNIOR
+### INGÉNIEUR LOGICIEL SÉNIOR
 
 ⇨ du <input type="date" value="2004-02-23" readonly>
   au <input type="date" value="2023-12-31" readonly> **19 ans 10 mois**
   chez Luminess (anciennement Jouve à Mayenne 53)
 
-### Ingénieur Logiciel
+#### Ingénieur Logiciel
 
 Pour le compte de l’Office des Publications Officielles des Communautés Européennes (OPOCE) au Luxembourg.
 
@@ -85,7 +85,7 @@ Pour le compte de l’Office des Publications Officielles des Communautés Europ
 
 > **Environnement métier :** Documentation, Langues, Publication, Union Européenne, Mise en page.
 
-### Ingénieur Logiciel
+#### Ingénieur Logiciel
 
 Pour le compte de la Bibliothèque Nationale de France (BNF) à Paris et autres collectivités territoriales.
 
@@ -97,7 +97,7 @@ Pour le compte de la Bibliothèque Nationale de France (BNF) à Paris et autres 
 
 > **Environnement métier :** Numérisation, Patrimoine, Gestion des méta-données.
 
-### Ingénieur Logiciel
+#### Ingénieur Logiciel
 
 Pour le compte des Éditions Joly à Paris.
 
@@ -109,7 +109,7 @@ Pour le compte des Éditions Joly à Paris.
 
 > **Environnement métier :** Édition, Publication, Droit, Juridique, CMS.
 
-### Ingénieur Logiciel Sénior
+#### Ingénieur Logiciel Sénior
 
 Pour le compte de l'Observatoire des Statistiques du ministère de l'Écologie et du développement durable.
 
@@ -126,7 +126,7 @@ Pour le compte de l'Observatoire des Statistiques du ministère de l'Écologie e
 
 > **Environnement métier :** Statistiques, Environnement, Écologie, Développement durable, Publication, CMS, RGAA.
 
-### Ingénieur Logiciel Sénior
+#### Ingénieur Logiciel Sénior
 
 Au sein du service BPO (Business Process Outsourcing) de LUMINESS, j'ai participé à la mise en place de processus
 industrialisés pour dématérialiser les documents administratifs et les factures clients.
@@ -141,7 +141,7 @@ industrialisés pour dématérialiser les documents administratifs et les factur
 
 > **Environnement métier :** Dématérialisation, Facturation, Assurance, Archivage, Workflow, Webservices.
 
-### Ingénieur Logiciel Sénior
+#### Ingénieur Logiciel Sénior
 
 Au sein du service Composition Numérique, j'ai participé au développement d'un outil de conversion de documents
 Word en XML (format DocBook).
@@ -160,7 +160,7 @@ En collaboration avec un second technical leader :
 
 > **Environnement métier :** Édition, Workflow, Formation, Conversion, Microsoft Office, Veille technologique
 
-### Ingénieur Logiciel Sénior
+#### Ingénieur Logiciel Sénior
 
 Pour le compte des éditions LexisNexis à Paris.
 
@@ -176,7 +176,7 @@ Pour le compte des éditions LexisNexis à Paris.
 
 > **Environnement métier :** Édition, Publication, Droit, Juridique, Workflow, Formation.
 
-### Ingénieur Logiciel Sénior
+#### Ingénieur Logiciel Sénior
 
 Pour le compte des éditions LexisNexis à Paris.
 
@@ -192,7 +192,7 @@ Pour le compte des éditions LexisNexis à Paris.
 
 > **Environnement métier :** Édition, Publication, Droit, Juridique, Workflow, Formation.
 
-### Ingénieur Logiciel Sénior
+#### Ingénieur Logiciel Sénior
 
 Pour le compte de l'Office des Brevets Américain (USPTO) à Omaha (Nebraska).
 
@@ -210,7 +210,7 @@ Pour le compte de l'Office des Brevets Américain (USPTO) à Omaha (Nebraska).
 
 > **Environnement métier :** Brevets, Publication, Droit, Juridique, Workflow, Formation.
 
-### Ingénieur Logiciel Sénior
+#### Ingénieur Logiciel Sénior
 
 Au sein du service Outils Généraux, j'ai participé au développement des workflows et des webservices
 génériques permettant de mettre en œuvre la norme [NF 544][nf-544] (Numérisation conforme à l'original)
@@ -232,7 +232,7 @@ Sous la direction d'un technical leader :
 
 [nf-544]: https://certification.afnor.org/services/prestation-numerisation-fidele-document-support-papier
 
-## INGÉNIEUR LOGICIEL
+### INGÉNIEUR LOGICIEL
 
 ⇨ du <input type="date" value="2003-10-01" readonly>
   au <input type="date" value="2004-01-30" readonly> **4 mois**
@@ -245,7 +245,7 @@ Miles 33 Oasys.
 
 > **Environnement métier :** Édition, SGML, Composition.
 
-## INGÉNIEUR INFORMATICIEN CHARGÉ D’ÉTUDE PROJET
+### INGÉNIEUR INFORMATICIEN CHARGÉ D’ÉTUDE PROJET
 
 ⇨ du <input type="date" value="2003-04-01" readonly>
   au <input type="date" value="2004-08-31" readonly> **1 an 5 mois**
@@ -258,7 +258,7 @@ Miles 33 Oasys pour le compte de Lavauzelle.
 
 > **Environnement métier :** Édition, SGML, Composition.
 
-## INGÉNIEUR LOGICIEL
+### INGÉNIEUR LOGICIEL
 
 ⇨ du <input type="date" value="1997-11-17" readonly>
   au <input type="date" value="2002-01-27" readonly> **4 ans 2 mois**
@@ -278,29 +278,29 @@ de documents de spécification et maquettage).
 > **Environnement métier :** Édition, Publication, Formation, Relation clientèle, Sous-traitance, Mairies,
 > Collectivités locales.
 
-# Formations
+## Formations
 
-## CEL CCI DE LA MAYENNE
+### CEL CCI DE LA MAYENNE
 
 ⇨ **février 2018**
 
 TOEIC Anglais, Note : 855 sur 990
 
-## DIVERSES SOCIÉTÉS DE FORMATIONS
+### DIVERSES SOCIÉTÉS DE FORMATIONS
 
 ⇨ **2001 – 2018**
 
 Angular, développement agile, accessibilité RGAA, conduite de projets, gestion de configuration, UML…
 
-## ÉPITA (PARIS)
+### ÉPITA (PARIS)
 
 ⇨ **1992 – 1996**
 
 DIPLÔME D’INGÉNIEUR : Génie Logiciel - Production Logiciel
 
-# Compétences
+## Compétences
 
-## OUTILS ET LANGAGES DE PROGRAMMATION
+### OUTILS ET LANGAGES DE PROGRAMMATION
    
 Agile, Apache, Arrow, Black, C++, CentOS, CI/CD, Confluence, CSS, Django REST framework, DocBook, Docker,
 Dreamweaver, DSSSL, ELK, Excel, FastAPI, Git, GitHub, GitLab, Hatch, HTML, iSort, Java, JavaScript, Jenkins,
@@ -308,7 +308,7 @@ Jira, Linux, macOS, Miles 33 Oasys, MyPy, MySQL, OmniMark (Stilo), OpenAPI, Pand
 PostgreSQL, pytest, Python, React, Redis, REST, SGML, Shell, SLURM, SonarCloud, Sphinx, SQLAlchemy, SQLite,
 Subversion, Swagger, TypeScript, TYPO3, Ubuntu, UML, Unit Testing, Windows, Word, Word Basic, XML, XSLT.
 
-## MISE EN ŒUVRE
+### MISE EN ŒUVRE
 
 - Gestion de projets
 - Workflows industriels
@@ -320,7 +320,7 @@ Subversion, Swagger, TypeScript, TYPO3, Ubuntu, UML, Unit Testing, Windows, Word
 - Recrutement et formation
 - Gestion de la qualité
 
-# Intérêts
+## Intérêts
 
 J’étais membre de l’association de jumelage de la ville de Mayenne. À ce titre, je participais aux différents échanges
 avec Waiblingen (en Allemagne) et Devizes (en Angleterre). Mayenne est aussi jumelée avec Jesi en Italie, mais aucun
@@ -328,15 +328,15 @@ avec Waiblingen (en Allemagne) et Devizes (en Angleterre). Mayenne est aussi jum
 
 Je pratique le roller en ligne, le VTT et je fais du cross-training (entrainement intensif en salle).
 
-# Diplômes
+## Diplômes
 
 🎓 Génie Logiciel - Production Logiciel
 
 🎓 TOEIC Anglais
 
-# Open Source
+## Open Source
 
-## PROJECT LEADER
+### PROJECT LEADER
 
 - [AntaREST](https://github.com/AntaresSimulatorTeam/AntaREST) – A Python library to interact with Antares Web API.
 - [Deprecated](https://github.com/tantale/deprecated) – Python `@deprecated` decorator to deprecate old python classes, functions or methods.
@@ -344,7 +344,7 @@ Je pratique le roller en ligne, le VTT et je fais du cross-training (entrainemen
 - [Benker](https://github.com/laurent-laporte-pro/benker) – Organize your data in a spatial grid system for CALS, HTML, Open XML tables conversion. (en développement)
 - [jquery-worked-hours-grid](https://github.com/tantale/jquery-worked-hours-grid) – jQuery plugin used to calculate worked durations in worked hours grids.
 
-## CONTRIBUTEUR
+### CONTRIBUTEUR
 
 - [pip](https://github.com/pypa/pip) – The Python Package Installer
 - [OpenPyXl](https://foss.heptapod.net/openpyxl/openpyxl) – A Python library to read/write Excel 2010 xlsx/xlsm files

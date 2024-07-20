@@ -8,7 +8,7 @@ tags: [ curriculum vitae, CV, professional career, skills, training ]
 <img alt="Profile of Laurent LAPORTE" src="../images/profile-laurent-laporte.png" title="Laurent LAPORTE"
      style="float: right; margin: 0 0 1em 1em; width: 223px; height: 223px"/>
 
-# About
+## About
 
 - LAURENT LAPORTE
 - **Address:** 3, rue des Lilas, 53440 La Bazoge-Montpinçon, France
@@ -17,14 +17,14 @@ tags: [ curriculum vitae, CV, professional career, skills, training ]
 
 I am a software developer with over 30 years of experience in enterprise software development.
 
-# Experiences
+## Experiences
 
-# Courses
+## Courses
 
-# Skills
+## Skills
 
-# Interests
+## Interests
 
-# Diplomas
+## Diplomas
 
-# Open Source
+## Open Source
