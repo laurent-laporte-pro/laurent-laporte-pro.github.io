@@ -4,10 +4,9 @@ site_author: Laurent LAPORTE
 site_url: https://laurent-laporte-pro.github.io/
 
 nav:
-  - index.md
-  - fr.md
-  - en.md
-  - de.md
+  - fr/index.md
+  - en/index.md
+  - de/index.md
 
 theme:
   # https://squidfunk.github.io/mkdocs-material/getting-started/
@@ -35,3 +34,13 @@ extra:
       link: https://github.com/laurent-laporte-pro/
     - icon: fontawesome/brands/stack-overflow
       link: https://stackoverflow.com/users/1513933/laurent-laporte
+  alternate:
+    - name: 🇫🇷 Français
+      link: /fr/
+      lang: fr
+    - name: 🇬🇧 English
+      link: /en/
+      lang: en
+    - name: 🇩🇪 Deutsch
+      link: /de/
+      lang: de

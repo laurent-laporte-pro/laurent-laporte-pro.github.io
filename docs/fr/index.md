@@ -5,6 +5,9 @@ date: 2024-07-14
 tags: [ curriculum vitæ, curriculum vitae, CV, parcours professionnel, compétences, formation ]
 ---
 
+<img alt="Profile de Laurent LAPORTE" src="../images/profile-laurent-laporte.png" title="Laurent LAPORTE"
+     style="float: right; margin: 0 0 1em 1em; width: 223px; height: 223px"/>
+
 # À propos
 
 - LAURENT LAPORTE
