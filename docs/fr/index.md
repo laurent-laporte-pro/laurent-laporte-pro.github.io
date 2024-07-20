@@ -15,7 +15,7 @@ tags: [ curriculum vitæ, curriculum vitae, CV, parcours professionnel, compéte
 - **Tél. :** [(+33) 6 18 99 30 01](tel:+33618993001)
 - **Email :** [laurent.laporte.pro@gmail.com](mailto:laurent.laporte.pro@gmail.com)
 
-Je suis un développeur logiciel avec plus de 28 ans d'expérience dans le développement de logiciels d'entreprise.
+Je suis un développeur logiciel avec plus de 30 ans d'expérience dans le développement de logiciels d'entreprise.
 
 # Expériences
 

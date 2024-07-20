@@ -15,7 +15,7 @@ tags: [ curriculum vitae, Lebenslauf, beruflicher Werdegang, Kompetenzen, Ausbil
 - **Telefon:** [(+33) 6 18 99 30 01](tel:+33618993001)
 - **E-Mail:** [laurent.laporte.pro@gmail.com](mailto:laurent.laporte.pro@gmail.com)
 
-Ich bin ein Softwareentwickler mit über 28 Jahren Erfahrung in der Entwicklung von Unternehmenssoftware.
+Ich bin ein Softwareentwickler mit über 30 Jahren Erfahrung in der Entwicklung von Unternehmenssoftware.
 
 # Erfahrungen
 
