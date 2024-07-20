@@ -61,8 +61,8 @@ une application de simulation des études sur la consommation et la production d
   à rendre le logiciel diffusable à l’international (Belgique, Autriche, etc.) et à permettre la vente de services.
 
 > **Environnement technique :** Agile, Arrow, Black, CentOS, CI/CD, Confluence, Docker, ELK, FastAPI, GitHub,
-> GitLab, Hatch, Jira, iSort, JavaScript, Jenkins, MyPy, OpenAPI, Pandas, PostgreSQL, pytest, Python, React, Redis,
-> REST, SQLite, SLURM, SonarCloud, SQLAlchemy, Swagger, TypeScript, Ubuntu, Windows.
+> GitLab, Hatch, iSort, JavaScript, Jenkins, Jira, MyPy, OpenAPI, Pandas, PostgreSQL, pytest, Python, React,
+> Redis, REST, SLURM, SonarCloud, SQLAlchemy, SQLite, Swagger, TypeScript, Ubuntu, Windows.
 
 > **Environnement métier :** Antares, Documentation, Électricité, Énergie, Environnement, Formation, Projet,
 > Recrutement, Scrum, Simulation, Spécification, Veille technologique.
@@ -81,7 +81,7 @@ Pour le compte de l’Office des Publications Officielles des Communautés Europ
   l’Union Européenne en 24 langues.
 - Industrialisation des processus de production.
 
-> **Environnement technique :** Linux, XML, XSLT, Word, PDF, Python, Shell, Subversion.
+> **Environnement technique :** Linux, PDF, Python, Shell, Subversion, Word, XML, XSLT.
 
 > **Environnement métier :** Documentation, Langues, Publication, Union Européenne, Mise en page.
 
@@ -93,7 +93,7 @@ Pour le compte de la Bibliothèque Nationale de France (BNF) à Paris et autres 
 - Mise en place de bonnes pratiques de développement.
 - Conception UML et développement Perl.
 
-> **Environnement technique :** Linux, XML, XSLT, Perl, Subversion, UML.
+> **Environnement technique :** Linux, Perl, Subversion, UML, XML, XSLT.
 
 > **Environnement métier :** Numérisation, Patrimoine, Gestion des méta-données.
 
@@ -105,7 +105,7 @@ Pour le compte des Éditions Joly à Paris.
 - Développement et mise en place d'un système de publication en Java.
 - Intégration avec un workflow de publications.
 
-> **Environnement technique :** Windows, Java, XML, XSLT, Subversion, HTML, CSS.
+> **Environnement technique :** CSS, HTML, Java, Subversion, Windows, XML, XSLT.
 
 > **Environnement métier :** Édition, Publication, Droit, Juridique, CMS.
 
@@ -122,7 +122,7 @@ Pour le compte de l'Observatoire des Statistiques du ministère de l'Écologie e
 - Rédaction de la documentation utilisateur.
 - Formation des utilisateurs.
 
-> **Environnement technique :** Linux, Apache, MySQL, PHP, TYPO3, HTML, CSS, JavaScript, Subversion.
+> **Environnement technique :** Apache, CSS, HTML, JavaScript, Linux, MySQL, PHP, Subversion, TYPO3.
 
 > **Environnement métier :** Statistiques, Environnement, Écologie, Développement durable, Publication, CMS, RGAA.
 
@@ -137,7 +137,7 @@ industrialisés pour dématérialiser les documents administratifs et les factur
 - Développement du workflow et des webservices en Python.
 - Méthodologie Agile sous la direction d'un Scrum Master (iceScrum).
 
-> **Environnement technique :** Linux, Windows, Python, MySQL, Git, GitLab, REST, unit testing.
+> **Environnement technique :** Git, GitLab, Linux, MySQL, Python, REST, Unit Testing, Windows.
 
 > **Environnement métier :** Dématérialisation, Facturation, Assurance, Archivage, Workflow, Webservices.
 
@@ -156,7 +156,7 @@ En collaboration avec un second technical leader :
 - Développement de l'outil de conversion en Python et XSLT (relecture de code, tests unitaires).
 - Méthodologie Agile (Scrum).
 
-> **Environnement technique :** Linux, Python, XML, XSLT, DocBook, Word, Git, GitLab, unit testing.
+> **Environnement technique :** DocBook, Git, GitLab, Linux, Python, Unit Testing, Word, XML, XSLT.
 
 > **Environnement métier :** Édition, Workflow, Formation, Conversion, Microsoft Office, Veille technologique
 
@@ -172,7 +172,7 @@ Pour le compte des éditions LexisNexis à Paris.
 - Formation des collaborateurs en France et à Madagascar.
 - Mise en place de bonnes pratiques de développement.
 
-> **Environnement technique :** Linux, Windows, Python, XML, XSLT, Git, GitLab, pytest, Sphinx.
+> **Environnement technique :** Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
 
 > **Environnement métier :** Édition, Publication, Droit, Juridique, Workflow, Formation.
 
@@ -188,7 +188,7 @@ Pour le compte des éditions LexisNexis à Paris.
 - Formation des collaborateurs en France.
 - Mise en place de bonnes pratiques de développement.
 
-> **Environnement technique :** Linux, Windows, Python, XML, XSLT, Excel, Git, GitLab, pytest, Sphinx.
+> **Environnement technique :** Excel, Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
 
 > **Environnement métier :** Édition, Publication, Droit, Juridique, Workflow, Formation.
 
@@ -206,7 +206,7 @@ Pour le compte de l'Office des Brevets Américain (USPTO) à Omaha (Nebraska).
 - Mise en place de bonnes pratiques de développement.
 - Méthodologie Agile sous la direction d'un Scrum Master (JIRA).
 
-> **Environnement technique :** Linux, Python, PostgreSQL, Git, GitLab, Sphinx, pytest, Django REST framework.
+> **Environnement technique :** Django REST framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, Sphinx.
 
 > **Environnement métier :** Brevets, Publication, Droit, Juridique, Workflow, Formation.
 
@@ -225,8 +225,8 @@ Sous la direction d'un technical leader :
   la norme NF 544.
 - Méthodologie Agile sous la direction d'un Scrum Master (iceScrum).
 
-> **Environnement technique :** Linux, Windows, Python, PostgreSQL, Git, GitLab, REST, Sphinx, pytest,
-> Django REST framework.
+> **Environnement technique :** Django REST framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, REST,
+> Sphinx, Windows.
 
 > **Environnement métier :** Dématérialisation, Numérisation, Archivage, Workflow, Webservices, Norme NF 544, Agilité.
 
@@ -241,7 +241,7 @@ Sous la direction d'un technical leader :
 Développement et mise au point d’une application de rétro conversion en SGML depuis le système de composition
 Miles 33 Oasys.
 
-> **Environnement technique :** Windows, SGML, DSSSL, OmniMark (Stilo), Miles 33 Oasys, C++.
+> **Environnement technique :** C++, DSSSL, Miles 33 Oasys, OmniMark (Stilo), SGML, Windows.
 
 > **Environnement métier :** Édition, SGML, Composition.
 
@@ -254,7 +254,7 @@ Miles 33 Oasys.
 Développement et mise au point d’une application de rétro conversion en SGML depuis le système de composition
 Miles 33 Oasys pour le compte de Lavauzelle.
 
-> **Environnement technique :** Windows, SGML, DSSSL, OmniMark (Stilo), Miles 33 Oasys.
+> **Environnement technique :** DSSSL, Miles 33 Oasys, OmniMark (Stilo), SGML, Windows.
 
 > **Environnement métier :** Édition, SGML, Composition.
 
@@ -273,7 +273,7 @@ Formation en informatique d’un jeune en contrat de qualification pendant 1 an.
 Relation clientèle (courrier et téléphone) et sous-traitance (prospection, rédaction de cahiers des charges,
 de documents de spécification et maquettage).
 
-> **Environnement technique :** Windows, macOS, Word Basic, HTML, JavaScript, Dreamweaver.
+> **Environnement technique :** Dreamweaver, HTML, JavaScript, macOS, Windows, Word Basic.
 
 > **Environnement métier :** Édition, Publication, Formation, Relation clientèle, Sous-traitance, Mairies,
 > Collectivités locales.
@@ -302,10 +302,11 @@ DIPLÔME D’INGÉNIEUR : Génie Logiciel - Production Logiciel
 
 ## OUTILS ET LANGAGES DE PROGRAMMATION
    
-Angular, CentOS, CSS, Django, Django REST framework, Docker, Dreamweaver, DSSSL, ELK, FastAPI, Flask, Git, GitLab,
-Hatch, HTML, Java, JavaScript, Jenkins, Jira, Linux, macOS, OmniMark, OpenAPI, Pandas, Perl, PHP, PostgreSQL,
-pytest, Python, Redis, REST, Shell, Sphinx, SQL, SQLAlchemy, SQLite, Swagger, TypeScript, TYPO3, Ubuntu, UML,
-Visual Paradigm, Windows, Word Basic, XML, XSLT.
+Agile, Apache, Arrow, Black, C++, CentOS, CI/CD, Confluence, CSS, Django REST framework, DocBook, Docker,
+Dreamweaver, DSSSL, ELK, Excel, FastAPI, Git, GitHub, GitLab, Hatch, HTML, iSort, Java, JavaScript, Jenkins,
+Jira, Linux, macOS, Miles 33 Oasys, MyPy, MySQL, OmniMark (Stilo), OpenAPI, Pandas, PDF, Perl, PHP,
+PostgreSQL, pytest, Python, React, Redis, REST, SGML, Shell, SLURM, SonarCloud, Sphinx, SQLAlchemy, SQLite,
+Subversion, Swagger, TypeScript, TYPO3, Ubuntu, UML, Unit Testing, Windows, Word, Word Basic, XML, XSLT.
 
 ## MISE EN ŒUVRE
 
