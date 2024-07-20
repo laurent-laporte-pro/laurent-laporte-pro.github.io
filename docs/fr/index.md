@@ -19,7 +19,7 @@ Je suis un développeur logiciel avec plus de 30 ans d'expérience dans le déve
 
 ## Expériences
 
-### INGÉNIEUR CONSEIL — TECHNICAL LEADER
+### Ingénieur conseil — Technical Leader
 
 ⇨ du <input type="date" value="2023-01-09" readonly>
   au <input type="date" value="2024-07-12" readonly> **1 an 6 mois**
@@ -67,7 +67,7 @@ une application de simulation des études sur la consommation et la production d
 > **Environnement métier :** Antares, Documentation, Électricité, Énergie, Environnement, Formation, Projet,
 > Recrutement, Scrum, Simulation, Spécification, Veille technologique.
 
-### INGÉNIEUR LOGICIEL SÉNIOR
+### Ingénieur logiciel sénior
 
 ⇨ du <input type="date" value="2004-02-23" readonly>
   au <input type="date" value="2023-12-31" readonly> **19 ans 10 mois**
@@ -148,7 +148,7 @@ Word en XML (format DocBook).
 
 En collaboration avec un second technical leader :
 
-- Rôle de technical leader : pilotage de l'équipe de développement à Chenai (Inde).
+- Rôle de technical leader : pilotage de l'équipe de développement à Chennai (Inde).
 - Rédaction des spécifications techniques (en anglais).
 - Veille technologique sur les formats de documents : gestion des images, des tableaux, des formules mathématiques.
 - Formation des collaborateurs en Inde.
@@ -232,7 +232,7 @@ Sous la direction d'un technical leader :
 
 [nf-544]: https://certification.afnor.org/services/prestation-numerisation-fidele-document-support-papier
 
-### INGÉNIEUR LOGICIEL
+### Ingénieur logiciel
 
 ⇨ du <input type="date" value="2003-10-01" readonly>
   au <input type="date" value="2004-01-30" readonly> **4 mois**
@@ -245,7 +245,7 @@ Miles 33 Oasys.
 
 > **Environnement métier :** Édition, SGML, Composition.
 
-### INGÉNIEUR INFORMATICIEN CHARGÉ D’ÉTUDE PROJET
+### Ingénieur informaticien chargé d’étude projet
 
 ⇨ du <input type="date" value="2003-04-01" readonly>
   au <input type="date" value="2004-08-31" readonly> **1 an 5 mois**
@@ -258,7 +258,7 @@ Miles 33 Oasys pour le compte de Lavauzelle.
 
 > **Environnement métier :** Édition, SGML, Composition.
 
-### INGÉNIEUR LOGICIEL
+### Ingénieur logiciel
 
 ⇨ du <input type="date" value="1997-11-17" readonly>
   au <input type="date" value="2002-01-27" readonly> **4 ans 2 mois**
@@ -280,19 +280,19 @@ de documents de spécification et maquettage).
 
 ## Formations
 
-### CEL CCI DE LA MAYENNE
+### CEL CCI de la Mayenne
 
 ⇨ **février 2018**
 
 TOEIC Anglais, Note : 855 sur 990
 
-### DIVERSES SOCIÉTÉS DE FORMATIONS
+### Diverses sociétés de formations
 
 ⇨ **2001 – 2018**
 
 Angular, développement agile, accessibilité RGAA, conduite de projets, gestion de configuration, UML…
 
-### ÉPITA (PARIS)
+### École Pour l’Informatique et les Techniques Avancées (ÉPITA Paris)
 
 ⇨ **1992 – 1996**
 
@@ -300,7 +300,7 @@ DIPLÔME D’INGÉNIEUR : Génie Logiciel - Production Logiciel
 
 ## Compétences
 
-### OUTILS ET LANGAGES DE PROGRAMMATION
+### Outils et langages de programmation
    
 Agile, Apache, Arrow, Black, C++, CentOS, CI/CD, Confluence, CSS, Django REST framework, DocBook, Docker,
 Dreamweaver, DSSSL, ELK, Excel, FastAPI, Git, GitHub, GitLab, Hatch, HTML, iSort, Java, JavaScript, Jenkins,
@@ -308,7 +308,7 @@ Jira, Linux, macOS, Miles 33 Oasys, MyPy, MySQL, OmniMark (Stilo), OpenAPI, Pand
 PostgreSQL, pytest, Python, React, Redis, REST, SGML, Shell, SLURM, SonarCloud, Sphinx, SQLAlchemy, SQLite,
 Subversion, Swagger, TypeScript, TYPO3, Ubuntu, UML, Unit Testing, Windows, Word, Word Basic, XML, XSLT.
 
-### MISE EN ŒUVRE
+### Mise en œuvre
 
 - Gestion de projets
 - Workflows industriels
@@ -326,7 +326,8 @@ J’étais membre de l’association de jumelage de la ville de Mayenne. À ce t
 avec Waiblingen (en Allemagne) et Devizes (en Angleterre). Mayenne est aussi jumelée avec Jesi en Italie, mais aucun
 échange n’est encore organisé. Je suivais régulièrement les cours du soir afin d’améliorer mon allemand.
 
-Je pratique le roller en ligne, le VTT et je fais du cross-training (entrainement intensif en salle).
+Je pratique le roller en ligne et je fais du cross-training (entrainement intensif en salle).
+J'ai aussi pratiqué la boxe loisir.
 
 ## Diplômes
 
@@ -336,7 +337,7 @@ Je pratique le roller en ligne, le VTT et je fais du cross-training (entrainemen
 
 ## Open Source
 
-### PROJECT LEADER
+### En tant que Project Leader
 
 - [AntaREST](https://github.com/AntaresSimulatorTeam/AntaREST) – A Python library to interact with Antares Web API.
 - [Deprecated](https://github.com/tantale/deprecated) – Python `@deprecated` decorator to deprecate old python classes, functions or methods.
@@ -344,12 +345,12 @@ Je pratique le roller en ligne, le VTT et je fais du cross-training (entrainemen
 - [Benker](https://github.com/laurent-laporte-pro/benker) – Organize your data in a spatial grid system for CALS, HTML, Open XML tables conversion. (en développement)
 - [jquery-worked-hours-grid](https://github.com/tantale/jquery-worked-hours-grid) – jQuery plugin used to calculate worked durations in worked hours grids.
 
-### CONTRIBUTEUR
+### En tant que contributeur
 
 - [pip](https://github.com/pypa/pip) – The Python Package Installer
 - [OpenPyXl](https://foss.heptapod.net/openpyxl/openpyxl) – A Python library to read/write Excel 2010 xlsx/xlsm files
 - [Sphinx](https://github.com/sphinx-doc/sphinx) – Python documentation generator
-- [LegiPy](https://github.com/regardscitoyens/legipy) – Python client for legifrance.gouv.fr website
+- [LegiPy](https://github.com/regardscitoyens/legipy) – Python client for <https://www.legifrance.gouv.fr/> website
 - [EbookLib](https://github.com/aerkalov/ebooklib) – Python E-book library for handling books in EPUB2/EPUB3 and Kindle format
 - [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) – Enhanced cookiecutter template for Python libraries.
 - [cookiecutter-pypackage-minimal](https://github.com/kragniz/cookiecutter-pypackage-minimal) – A minimal template for python packages
