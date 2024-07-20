@@ -21,7 +21,9 @@ Je suis un développeur logiciel avec plus de 28 ans d'expérience dans le déve
 
 ## INGÉNIEUR CONSEIL — TECHNICAL LEADER
 
-⇨ **du 9 janv. 2024 au 12 jill. 2024** Meritis (Paris 75)
+⇨ du <input type="date" value="2023-01-09" readonly>
+  au <input type="date" value="2024-07-12" readonly> **1 an 6 mois**
+  chez Meritis (Paris 75)
 
 En intervention chez [RTE](https://www.rte-france.com/) (Réseau de Transport d’Électricité) pour le compte
 de [Meritis Technologies](https://meritis.fr/), société de conseil en ingénierie logicielle.
@@ -58,19 +60,20 @@ une application de simulation des études sur la consommation et la production d
   [Scalian](https://www.scalian.com/notre-groupe/nos-implantations/rennes/) pour établir des collaborations visant
   à rendre le logiciel diffusable à l’international (Belgique, Autriche, etc.) et à permettre la vente de services.
 
-> **Environnement technique :** Agile, Arrow, Black, CentOS, CI/CD, Confluence, Docker, ELK, FastAPI, GitHub, GitLab,
-> Hatch, Jira, iSort, JavaScript, Jenkins, MyPy, OpenAPI, Pandas, PostgreSQL, pytest, Python, React, Redis, REST,
-> SQLite,
-> SLURM, SonarCloud, SQLAlchemy, Swagger, TypeScript, Ubuntu, Windows.
+> **Environnement technique :** Agile, Arrow, Black, CentOS, CI/CD, Confluence, Docker, ELK, FastAPI, GitHub,
+> GitLab, Hatch, Jira, iSort, JavaScript, Jenkins, MyPy, OpenAPI, Pandas, PostgreSQL, pytest, Python, React, Redis,
+> REST, SQLite, SLURM, SonarCloud, SQLAlchemy, Swagger, TypeScript, Ubuntu, Windows.
 
 > **Environnement métier :** Antares, Documentation, Électricité, Énergie, Environnement, Formation, Projet,
-> Recrutement, RTE, RTE-International, Scalian, Scrum, Simulation, Spécification, Veille technologique.
+> Recrutement, Scrum, Simulation, Spécification, Veille technologique.
 
 ## INGÉNIEUR LOGICIEL SÉNIOR
 
-⇨ **du 23 fév. 2004 au 31 déc. 2023** LUMINESS (anciennement Jouve à Mayenne 53)
+⇨ du <input type="date" value="2004-02-23" readonly>
+  au <input type="date" value="2023-12-31" readonly> **19 ans 10 mois**
+  chez Luminess (anciennement Jouve à Mayenne 53)
 
-**Ingénieur Logiciel :**
+### Ingénieur Logiciel
 
 Pour le compte de l’Office des Publications Officielles des Communautés Européennes (OPOCE) au Luxembourg.
 
@@ -82,7 +85,7 @@ Pour le compte de l’Office des Publications Officielles des Communautés Europ
 
 > **Environnement métier :** Documentation, Langues, Publication, Union Européenne, Mise en page.
 
-**Ingénieur Logiciel :**
+### Ingénieur Logiciel
 
 Pour le compte de la Bibliothèque Nationale de France (BNF) à Paris et autres collectivités territoriales.
 
@@ -94,7 +97,7 @@ Pour le compte de la Bibliothèque Nationale de France (BNF) à Paris et autres 
 
 > **Environnement métier :** Numérisation, Patrimoine, Gestion des méta-données.
 
-**Ingénieur Logiciel :**
+### Ingénieur Logiciel
 
 Pour le compte des Éditions Joly à Paris.
 
@@ -106,7 +109,7 @@ Pour le compte des Éditions Joly à Paris.
 
 > **Environnement métier :** Édition, Publication, Droit, Juridique, CMS.
 
-**Ingénieur Logiciel Sénior :**
+### Ingénieur Logiciel Sénior
 
 Pour le compte de l'Observatoire des Statistiques du ministère de l'Écologie et du développement durable.
 
@@ -123,7 +126,7 @@ Pour le compte de l'Observatoire des Statistiques du ministère de l'Écologie e
 
 > **Environnement métier :** Statistiques, Environnement, Écologie, Développement durable, Publication, CMS, RGAA.
 
-**Ingénieur Logiciel Sénior :**
+### Ingénieur Logiciel Sénior
 
 Au sein du service BPO (Business Process Outsourcing) de LUMINESS, j'ai participé à la mise en place de processus
 industrialisés pour dématérialiser les documents administratifs et les factures clients.
@@ -132,65 +135,108 @@ industrialisés pour dématérialiser les documents administratifs et les factur
 - Gestion de l'archivage physique et numérique.
 - Mise en place de bonnes pratiques de développement.
 - Développement du workflow et des webservices en Python.
+- Méthodologie Agile sous la direction d'un Scrum Master (iceScrum).
 
-> **Environnement technique :** Linux, Windows, Python, MySQL, Git, GitLab, RESR, unit testing.
+> **Environnement technique :** Linux, Windows, Python, MySQL, Git, GitLab, REST, unit testing.
 
 > **Environnement métier :** Dématérialisation, Facturation, Assurance, Archivage, Workflow, Webservices.
 
-**Ingénieur Logiciel Sénior :**
+### Ingénieur Logiciel Sénior
+
+Au sein du service Composition Numérique, j'ai participé au développement d'un outil de conversion de documents
+Word en XML (format DocBook).
+
+En collaboration avec un second technical leader :
+
+- Rôle de technical leader : pilotage de l'équipe de développement à Chenai (Inde).
+- Rédaction des spécifications techniques (en anglais).
+- Veille technologique sur les formats de documents : gestion des images, des tableaux, des formules mathématiques.
+- Formation des collaborateurs en Inde.
+- Mise en place de bonnes pratiques de développement.
+- Développement de l'outil de conversion en Python et XSLT (relecture de code, tests unitaires).
+- Méthodologie Agile (Scrum).
+
+> **Environnement technique :** Linux, Python, XML, XSLT, DocBook, Word, Git, GitLab, unit testing.
+
+> **Environnement métier :** Édition, Workflow, Formation, Conversion, Microsoft Office, Veille technologique
+
+### Ingénieur Logiciel Sénior
 
 Pour le compte des éditions LexisNexis à Paris.
 
-- Conception et développement d'un workflow de mise en page des publications juridiques.
+- Conception et développement d'un workflow de mise en page des publications juridiques (JurisClasseur).
 - Industrialisation des processus de mise à jour des feuillets mobiles.
 - Maintenance corrective et évolutive du workflow.
 - Rédaction de la documentation technique.
 - Formation des utilisateurs.
-- Formation des collaborateurs en France, en Inde et à Madagascar.
+- Formation des collaborateurs en France et à Madagascar.
 - Mise en place de bonnes pratiques de développement.
 
-> **Environnement technique :** Windows, Python, XML, XSLT, Excel, Git, GitLab, pytest, Sphinx.
+> **Environnement technique :** Linux, Windows, Python, XML, XSLT, Git, GitLab, pytest, Sphinx.
 
 > **Environnement métier :** Édition, Publication, Droit, Juridique, Workflow, Formation.
 
-**Ingénieur Logiciel Sénior :**
+### Ingénieur Logiciel Sénior
 
-Pour le compte de l'Office des Brevets Américain (USPTO) à Omaha.
+Pour le compte des éditions LexisNexis à Paris.
 
-- Conception et développement d'un workflow de traitement des demandes de brevets.
-- Industrialisation des processus de traitement des demandes.
-- Intégration des outils interactifs de saisi des demandes de brevets.
+- Conception et développement d'un workflow de mise en page des publications juridiques (Codes Bleus).
+- Industrialisation des processus de mise à jour du fond documentaire (marques de révision).
 - Maintenance corrective et évolutive du workflow.
+- Rédaction de la documentation technique.
 - Formation des utilisateurs.
-- Formation des collaborateurs aux États-Unis et en Roumanie.
+- Formation des collaborateurs en France.
 - Mise en place de bonnes pratiques de développement.
 
-> **Environnement technique :** Linux, Python, MySQL, Git, GitLab, Sphinx, pytest, Django REST framework.
+> **Environnement technique :** Linux, Windows, Python, XML, XSLT, Excel, Git, GitLab, pytest, Sphinx.
+
+> **Environnement métier :** Édition, Publication, Droit, Juridique, Workflow, Formation.
+
+### Ingénieur Logiciel Sénior
+
+Pour le compte de l'Office des Brevets Américain (USPTO) à Omaha (Nebraska).
+
+- Rôle de technical leader : pilotage de l'équipe de développement aux États-Unis et en Roumanie.
+- Conception et développement d'un workflow de traitement des demandes de brevets.
+- Industrialisation des processus de traitement des demandes.
+- Intégration des outils batch d'OCR (Reconnaissance Optique de Caractères) pour l'assistance à la saisie.
+- Intégration des outils interactifs de saisi des demandes de brevets.
+- Maintenance corrective et évolutive du workflow.
+- Formation des collaborateurs aux États-Unis et en Roumanie.
+- Mise en place de bonnes pratiques de développement.
+- Méthodologie Agile sous la direction d'un Scrum Master (JIRA).
+
+> **Environnement technique :** Linux, Python, PostgreSQL, Git, GitLab, Sphinx, pytest, Django REST framework.
 
 > **Environnement métier :** Brevets, Publication, Droit, Juridique, Workflow, Formation.
 
-**Ingénieur Logiciel Sénior :**
+### Ingénieur Logiciel Sénior
 
 Au sein du service Outils Généraux, j'ai participé au développement des workflows et des webservices
-génériques permettant de mettre en œuvre la norme NF 544 (Numérisation conforme à l'original)
+génériques permettant de mettre en œuvre la norme [NF 544][nf-544] (Numérisation conforme à l'original)
 au sein des workflow BPO (développement d'un modèle de workflow générique).
 
-- Sous la direction d'un technical leader, j'ai participé à la conception et au développement des workflows
-  et des webservices génériques.
-- Rédaction de la documentation technique.
-- Formation des développeurs pour la mise en place d'un workflow de dématérialisation permettant de respecter la
-  norme NF 544.
-- Développement de webservices en Python.
-- Mise à jour de la documentation technique en Sphinx.
+Sous la direction d'un technical leader :
+- Développement des modules batch du workflow générique en Python.
+- Développement des webservices Python avec Django REST framework.
+- Développement des scripts de migration de la base de données PostgreSQL.
+- Rédaction et mise à jour de la documentation technique en Sphinx.
+- Formation des développeurs pour la mise en place d'un workflow de dématérialisation permettant de respecter
+  la norme NF 544.
+- Méthodologie Agile sous la direction d'un Scrum Master (iceScrum).
 
-> **Environnement technique :** Linux, Windows, Python, MySQL, Git, GitLab, REST, Sphinx, pytest, Django REST
-  framework.
+> **Environnement technique :** Linux, Windows, Python, PostgreSQL, Git, GitLab, REST, Sphinx, pytest,
+> Django REST framework.
 
 > **Environnement métier :** Dématérialisation, Numérisation, Archivage, Workflow, Webservices, Norme NF 544, Agilité.
 
+[nf-544]: https://certification.afnor.org/services/prestation-numerisation-fidele-document-support-papier
+
 ## INGÉNIEUR LOGICIEL
 
-⇨ **du 1er oct. 2003 au 30 janvier 2004** LAVAUZELLE, PANAZOL (LIMOGES 87)
+⇨ du <input type="date" value="2003-10-01" readonly>
+  au <input type="date" value="2004-01-30" readonly> **4 mois**
+  chez Lavauzelle (Panazol 87)
 
 Développement et mise au point d’une application de rétro conversion en SGML depuis le système de composition
 Miles 33 Oasys.
@@ -201,10 +247,12 @@ Miles 33 Oasys.
 
 ## INGÉNIEUR INFORMATICIEN CHARGÉ D’ÉTUDE PROJET
 
-⇨ **1er avril 2003 au 31 août 2004** PIXELLENCE (VERNEUIL-EN-HALATTE 60)
+⇨ du <input type="date" value="2003-04-01" readonly>
+  au <input type="date" value="2004-08-31" readonly> **1 an 5 mois**
+  chez Pixellence (Verneuil-en-Halatte 60)
 
-Développement et mise au point d’une application de rétro conversion en SGML depuis le système de composition Miles 33
-Oasys pour le compte de Lavauzelle.
+Développement et mise au point d’une application de rétro conversion en SGML depuis le système de composition
+Miles 33 Oasys pour le compte de Lavauzelle.
 
 > **Environnement technique :** Windows, SGML, DSSSL, OmniMark (Stilo), Miles 33 Oasys.
 
@@ -212,19 +260,23 @@ Oasys pour le compte de Lavauzelle.
 
 ## INGÉNIEUR LOGICIEL
 
-⇨ **du 17 nov. 1997 au 27 janvier 2002** PÉDAGOFICHE (DURTOL 63)
+⇨ du <input type="date" value="1997-11-17" readonly>
+  au <input type="date" value="2002-01-27" readonly> **4 ans 2 mois**
+  chez Pédagofiche (Durtol 63)
 
 Préposé pour le développement de l’activité éditoriale sur tous supports numériques (CD‑Rom, Internet), et la gestion du
 parc informatique et logiciel. Organisation des circuits de l’information dans la société.
-Perfectionnement des connaissances de mes collaborateurs aux outils bureautiques. Formation en informatique d’un jeune
-en contrat de qualification pendant 1 an.
-Relation clientèle (courrier et téléphone) et sous-traitance (prospection, rédaction de cahiers des charges, de
-documents de spécification et maquettage).
+
+Perfectionnement des connaissances de mes collaborateurs aux outils bureautiques.
+Formation en informatique d’un jeune en contrat de qualification pendant 1 an.
+
+Relation clientèle (courrier et téléphone) et sous-traitance (prospection, rédaction de cahiers des charges,
+de documents de spécification et maquettage).
 
 > **Environnement technique :** Windows, macOS, Word Basic, HTML, JavaScript, Dreamweaver.
 
-> **Environnement métier :** Édition, Publication, Formation, Relation clientèle, Sous-traitance, Mairies, Collectivités
-> locales.
+> **Environnement métier :** Édition, Publication, Formation, Relation clientèle, Sous-traitance, Mairies,
+> Collectivités locales.
 
 # Formations
 
@@ -232,19 +284,19 @@ documents de spécification et maquettage).
 
 ⇨ **février 2018**
 
-TOEIC Anglais, Note : 855 sur 990
+TOEIC Anglais, Note : 855 sur 990
 
 ## DIVERSES SOCIÉTÉS DE FORMATIONS
 
 ⇨ **2001 – 2018**
 
-Angular, développement agile, accessibilité rgaa, conduite de projets, gestion de configuration, uml…
+Angular, développement agile, accessibilité RGAA, conduite de projets, gestion de configuration, UML…
 
 ## ÉPITA (PARIS)
 
 ⇨ **1992 – 1996**
 
-DIPLÔME D’INGÉNIEUR : Génie Logiciel - Production Logiciel
+DIPLÔME D’INGÉNIEUR : Génie Logiciel - Production Logiciel
 
 # Compétences
 
@@ -277,8 +329,9 @@ Je pratique le roller en ligne, le VTT et je fais du cross-training (entrainemen
 
 # Diplômes
 
-- 🎓 Génie Logiciel - Production Logiciel
-- 🎓 TOEIC Anglais
+🎓 Génie Logiciel - Production Logiciel
+
+🎓 TOEIC Anglais
 
 # Open Source
 
@@ -292,7 +345,7 @@ Je pratique le roller en ligne, le VTT et je fais du cross-training (entrainemen
 
 ## CONTRIBUTEUR
 
-- [Pip](https://github.com/pypa/pip) – The Python Package Installer
+- [pip](https://github.com/pypa/pip) – The Python Package Installer
 - [OpenPyXl](https://foss.heptapod.net/openpyxl/openpyxl) – A Python library to read/write Excel 2010 xlsx/xlsm files
 - [Sphinx](https://github.com/sphinx-doc/sphinx) – Python documentation generator
 - [LegiPy](https://github.com/regardscitoyens/legipy) – Python client for legifrance.gouv.fr website
