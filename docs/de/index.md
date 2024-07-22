@@ -8,9 +8,9 @@ tags: [ curriculum vitae, Lebenslauf, beruflicher Werdegang, Kompetenzen, Ausbil
 ## Über mich
 
 - LAURENT LAPORTE
-- **Adresse:** 3, rue des Lilas, 53440 La Bazoge-Montpinçon, Frankreich
-- **Telefon:** [(+33) 6 18 99 30 01](tel:+33618993001)
-- **E-Mail:** [laurent.laporte.pro@gmail.com](mailto:laurent.laporte.pro@gmail.com)
+- 🏠 **Adresse:** 3, rue des Lilas, 53440 La Bazoge-Montpinçon, Frankreich
+- 📞 **Telefon:** [(+33) 6 18 99 30 01](tel:+33618993001)
+- 📧 **E-Mail:** [laurent.laporte.pro@gmail.com](mailto:laurent.laporte.pro@gmail.com)
 
 Ich bin ein Softwareentwickler mit über 30 Jahren Erfahrung in der Entwicklung von Unternehmenssoftware.
 
@@ -209,14 +209,14 @@ Ich habe für das United States Patent and Trademark Office (USPTO) in Omaha, Ne
 
 #### Senior Softwareingenieur
 
-In der Abteilung "Allgemeine Werkzeuge" habe ich an der Entwicklung von Workflows und generischen Webdiensten
+In der Abteilung "Allgemeine Werkzeuge" habe ich an der Entwicklung von Workflows und generischen Webservices
 zur Umsetzung des [NF 544][nf-544]-Standards (Konformität bei der Original-Scannung)
 innerhalb von BPO-Workflows (Entwicklung eines generischen Workflow-Modells) teilgenommen.
 
 Unter der Leitung eines technischen Leiters:
 
 - Entwicklung von Batch-Modulen für den generischen Workflow mit Python.
-- Entwicklung von Python-Webdiensten mit Django REST Framework.
+- Entwicklung von Python-Webservices mit Django REST Framework.
 - Entwicklung von PostgreSQL-Datenbank-Migrations-Skripten.
 - Verfassen und Aktualisieren der technischen Dokumentation mit Sphinx.
 - Schulung von Entwicklern zur Implementierung eines Dematerialisierungs-Workflows gemäß dem NF 544-Standard.
