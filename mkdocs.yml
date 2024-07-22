@@ -13,7 +13,7 @@ theme:
   # https://squidfunk.github.io/mkdocs-material/getting-started/
   name: material
   language: fr
-  favicon: images/favicon.png
+  favicon: assets/favicon.png
   palette:
     primary: 'blue'
     accent: 'light-blue'
