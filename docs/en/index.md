@@ -20,7 +20,7 @@ I am a software developer with over 30 years of experience in enterprise softwar
 ### Consultant Engineer — Technical Leader
 
 ⇨ From <input type="date" value="2023-01-09" readonly>
-  to <input type="date" value="2024-07-12" readonly> **1 year 6 months**
+  to <input type="date" value="2024-08-09" readonly> **1 year 7 months**
   at Meritis (Paris 75)
 
 I worked on behalf of [Meritis Technologies](https://meritis.fr/) as a consultant engineer at [RTE](https://www.rte-france.com/)
