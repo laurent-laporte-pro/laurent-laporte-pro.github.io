@@ -20,7 +20,7 @@ Ich bin ein Softwareentwickler mit über 30 Jahren Erfahrung in der Entwicklung 
 ### Beratungsingenieur — Technischer Leiter
 
 ⇨ von <input type="date" value="2023-01-09" readonly>
-  bis <input type="date" value="2024-07-12" readonly> **1 Jahr 6 Monate**
+  bis <input type="date" value="2024-08-09" readonly> **1 Jahr 7 Monate**
   bei Meritis (Paris 75)
 
 Im Auftrag von [Meritis Technologies](https://meritis.fr/) war ich bei [RTE](https://www.rte-france.com/)
