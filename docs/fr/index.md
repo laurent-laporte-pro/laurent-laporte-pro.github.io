@@ -20,7 +20,7 @@ Je suis un développeur logiciel avec plus de 30 ans d'expérience dans le déve
 ### Ingénieur conseil — Technical Leader
 
 ⇨ du <input type="date" value="2023-01-09" readonly>
-  au <input type="date" value="2024-07-12" readonly> **1 an 6 mois**
+  au <input type="date" value="2024-08-09" readonly> **1 an 7 mois**
   chez Meritis (Paris 75)
 
 En intervention chez [RTE](https://www.rte-france.com/) (Réseau de Transport d’Électricité) pour le compte
