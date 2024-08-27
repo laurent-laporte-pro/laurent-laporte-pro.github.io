@@ -1,0 +1,39 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "laurent-laporte-pro-github-io"
+dynamic = ["version"]
+description = 'Static website to present my résumé'
+readme = "README.md"
+requires-python = ">=3.8"
+license= {file = "LICENCE.md"}
+keywords = ["static-website", "resume", "curriculum-vitae", "cv"]
+authors = [
+    { name = "Laurent LAPORTE", email = "laurent.laporte.pro@gmail.com" },
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+]
+dependencies = [
+    'mkdocs',
+    'mkdocs-material',
+]
+
+[project.urls]
+Documentation = "https://github.com/laurent-laporte-pro/laurent-laporte-pro-github-io#readme"
+Issues = "https://github.com/laurent-laporte-pro/laurent-laporte-pro-github-io/issues"
+Source = "https://github.com/laurent-laporte-pro/laurent-laporte-pro-github-io"
+'GitHub Pages' = "https://laurent-laporte-pro.github.io/"
+
+[tool.hatch.version]
+path = "src/laurent_laporte_pro_github_io/__about__.py"

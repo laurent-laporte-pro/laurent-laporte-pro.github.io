@@ -1,0 +1,56 @@
+site_name: Laurent LAPORTE
+site_description: "Laurent LAPORTE's Professional Profile"
+site_author: Laurent LAPORTE
+site_url: https://laurent-laporte-pro.github.io/
+
+nav:
+  - index.md
+  - fr/index.md
+  - en/index.md
+  - de/index.md
+
+theme:
+  # https://squidfunk.github.io/mkdocs-material/getting-started/
+  name: material
+  language: fr
+  favicon: assets/favicon.png
+  palette:
+    primary: 'blue'
+    accent: 'light-blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  features:
+    - search.suggest
+    - navigation.footer
+    - toc.integrate
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/laurent-laporte-pro/
+    - icon: fontawesome/brands/github
+      link: https://github.com/laurent-laporte-pro/
+    - icon: fontawesome/brands/stack-overflow
+      link: https://stackoverflow.com/users/1513933/laurent-laporte
+  alternate:
+    - name: 🇫🇷 Français
+      link: /fr/
+      lang: fr
+    - name: 🇬🇧 English
+      link: /en/
+      lang: en
+    - name: 🇩🇪 Deutsch
+      link: /de/
+      lang: de
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - toc:
+      permalink: false
+      toc_depth: 3
