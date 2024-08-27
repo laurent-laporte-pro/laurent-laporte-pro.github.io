@@ -2,10 +2,8 @@ from __future__ import annotations
 
 import textwrap
 import unicodedata
-from pathlib import Path
 
-HERE = Path(__file__).parent.resolve()
-PROJECT_DIR = next(iter(p for p in HERE.parents if (p / "pyproject.toml").exists()))
+from laurent_laporte_pro_github_io import PROJECT_DIR
 
 MD_PATH = PROJECT_DIR.joinpath("docs/fr/index.md")
 

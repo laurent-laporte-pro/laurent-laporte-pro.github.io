@@ -71,73 +71,77 @@ zur Stromverbrauchs- und -erzeugung in Frankreich und Europa im kurz-, mittel- u
   bis <input type="date" value="2023-12-31" readonly> **19 Jahre 10 Monate**
   bei Luminess (ehemals Jouve in Mayenne 53)
 
-#### Softwareingenieur
-
-Für das Amt für Amtliche Veröffentlichungen der Europäischen Gemeinschaften (OPOCE) in Luxemburg.
-
-- Entwicklung eines Workflows zur Formatierung (MEF) und Seitengestaltung (MEP) der offiziellen Veröffentlichungen der
-  Europäischen Union in 24 Sprachen.
-- Industrialisierung der Produktionsprozesse.
-
-> **Technisches Umfeld:** Linux, PDF, Python, Shell, Subversion, Word, XML, XSLT.
-
-> **Fachliches Umfeld:** Dokumentation, Sprachen, Veröffentlichung, Europäische Union, Seitenlayout.
-
-#### Softwareingenieur
-
-Für die Bibliothèque nationale de France (BnF) in Paris und andere lokale Behörden.
-
-- Entwicklung eines Workflows zur Digitalisierung und Indexierung von Kulturdokumenten.
-- Implementierung bewährter Entwicklungspraktiken.
-- UML-Design und Perl-Entwicklung.
-
-> **Technisches Umfeld:** Linux, Perl, Subversion, UML, XML, XSLT.
-
-> **Fachliches Umfeld:** Digitalisierung, Kulturerbe, Metadatenverwaltung.
-
-#### Softwareingenieur
-
-Für die Éditions Joly in Paris tätig.
-
-- Implementierung eines CMS (Content Management Systems) zur Aktualisierung von Studien und juristischen Formularen.
-- Entwicklung und Implementierung eines Veröffentlichungssystems in Java.
-- Integration mit einem Veröffentlichungsworkflow.
-
-> **Technisches Umfeld:** CSS, HTML, Java, Subversion, Windows, XML, XSLT.
-
-> **Fachliches Umfeld:** Verlagswesen, Veröffentlichung, Recht, Juristisch, CMS.
-
 #### Senior Softwareingenieur
 
-Für das Observatoire des Statistiques des französischen Ministeriums für Ökologie und nachhaltige Entwicklung tätig.
+In der Abteilung "Allgemeine Werkzeuge" habe ich an der Entwicklung von Workflows und generischen Webservices
+zur Umsetzung des [NF 544][nf-544]-Standards (Konformität bei der Original-Scannung)
+innerhalb von BPO-Workflows (Entwicklung eines generischen Workflow-Modells) teilgenommen.
 
-- Entwicklung eines TYPO3-CMS zur Veröffentlichung von Umweltstatistiken.
-- Konzeption und Entwicklung spezifischer Module in PHP.
-- Leitung des Entwicklungsteams im Senegal.
-- Implementierung bewährter Entwicklungspraktiken.
-- Einhaltung der RGAA-Normen (Référentiel Général d'Accessibilité pour les Administrations).
-- Verfassen des Konzeptionsdokuments und der technischen Spezifikationen.
-- Erstellung der Benutzerdokumentation.
-- Schulung der Benutzer.
+Unter der Leitung eines technischen Leiters:
 
-> **Technisches Umfeld:** Apache, CSS, HTML, JavaScript, Linux, MySQL, PHP, Subversion, TYPO3.
-
-> **Fachliches Umfeld:** Statistiken, Umwelt, Ökologie, Nachhaltige Entwicklung, Veröffentlichung, CMS, RGAA.
-
-#### Senior Softwareingenieur
-
-Im BPO-Service (Business Process Outsourcing) von LUMINESS habe ich an der Implementierung industrialisierter Prozesse
-zur Digitalisierung von Verwaltungsdokumenten und Kundenrechnungen teilgenommen.
-
-- Verwaltung von Dokumentenflüssen und Validierungsprozessen.
-- Verwaltung der physischen und digitalen Archivierung.
-- Implementierung bewährter Entwicklungspraktiken.
-- Entwicklung des Workflows und der Webservices in Python.
+- Entwicklung von Batch-Modulen für den generischen Workflow mit Python.
+- Entwicklung von Python-Webservices mit Django REST Framework.
+- Entwicklung von PostgreSQL-Datenbank-Migrations-Skripten.
+- Verfassen und Aktualisieren der technischen Dokumentation mit Sphinx.
+- Schulung von Entwicklern zur Implementierung eines Dematerialisierungs-Workflows gemäß dem NF 544-Standard.
 - Agile Methodik unter der Leitung eines Scrum Masters (iceScrum).
 
-> **Technisches Umfeld:** Git, GitLab, Linux, MySQL, Python, REST, Unit Testing, Windows.
+> **Technische Umgebung:** Django REST Framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, REST,
+> Sphinx, Windows.
 
-> **Fachliches Umfeld:** Digitalisierung, Rechnungsstellung, Versicherung, Archivierung, Workflow, Webservices.
+> **Fachbereich:** Dematerialisierung, Scannen, Archivierung, Workflow, Webdienste, NF 544-Standard, Agilität.
+
+[nf-544]: https://certification.afnor.org/services/prestation-numerisation-fidele-document-support-papier
+
+#### Senior Softwareingenieur
+
+Ich habe für das United States Patent and Trademark Office (USPTO) in Omaha, Nebraska, gearbeitet.
+
+- Rolle als technischer Leiter: Führung des Entwicklungsteams in den USA und Rumänien.
+- Entwurf und Entwicklung eines Workflows zur Bearbeitung von Patentanträgen.
+- Industrialisierung der Antragsbearbeitungsprozesse.
+- Integration von OCR (Optical Character Recognition) Batch-Tools zur Unterstützung der Dateneingabe.
+- Integration interaktiver Tools zur Patentantragserfassung.
+- Korrektur und Weiterentwicklung des Workflows.
+- Schulung von Kollegen in den USA und Rumänien.
+- Implementierung von Best Practices im Bereich der Softwareentwicklung.
+- Agile Methodik unter der Leitung eines Scrum Masters (JIRA).
+
+> **Technische Umgebung:** Django REST Framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, Sphinx.
+
+> **Fachbereich:** Patente, Veröffentlichungen, Recht, Workflow, Schulung.
+
+#### Senior Softwareingenieur
+
+Für LexisNexis in Paris tätig.
+
+- Konzeption und Entwicklung eines Workflows zur Layoutgestaltung von juristischen Veröffentlichungen (Codes Bleus).
+- Industrialisierung der Prozesse zur Aktualisierung des Dokumentenbestands (Überarbeitungsmarken).
+- Fehlerbehebung und Weiterentwicklung des Workflows.
+- Verfassen der technischen Dokumentation.
+- Schulung der Benutzer.
+- Schulung der Mitarbeiter in Frankreich.
+- Implementierung bewährter Entwicklungspraktiken.
+
+> **Technisches Umfeld:** Excel, Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
+
+> **Fachliches Umfeld:** Verlagswesen, Veröffentlichung, Recht, Juristisch, Workflow, Schulung.
+
+#### Senior Softwareingenieur
+
+Für LexisNexis in Paris tätig.
+
+- Konzeption und Entwicklung eines Workflows zur Layoutgestaltung von juristischen Veröffentlichungen (JurisClasseur).
+- Industrialisierung der Prozesse zur Aktualisierung von mobilen Blättern.
+- Fehlerbehebung und Weiterentwicklung des Workflows.
+- Verfassen der technischen Dokumentation.
+- Schulung der Benutzer.
+- Schulung der Mitarbeiter in Frankreich und Madagaskar.
+- Implementierung bewährter Entwicklungspraktiken.
+
+> **Technisches Umfeld:** Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
+
+> **Fachliches Umfeld:** Verlagswesen, Veröffentlichung, Recht, Juristisch, Workflow, Schulung.
 
 #### Senior Softwareingenieur
 
@@ -160,75 +164,71 @@ In Zusammenarbeit mit einem zweiten technischen Leiter:
 
 #### Senior Softwareingenieur
 
-Für LexisNexis in Paris tätig.
+Im BPO-Service (Business Process Outsourcing) von LUMINESS habe ich an der Implementierung industrialisierter Prozesse
+zur Digitalisierung von Verwaltungsdokumenten und Kundenrechnungen teilgenommen.
 
-- Konzeption und Entwicklung eines Workflows zur Layoutgestaltung von juristischen Veröffentlichungen (JurisClasseur).
-- Industrialisierung der Prozesse zur Aktualisierung von mobilen Blättern.
-- Fehlerbehebung und Weiterentwicklung des Workflows.
-- Verfassen der technischen Dokumentation.
-- Schulung der Benutzer.
-- Schulung der Mitarbeiter in Frankreich und Madagaskar.
+- Verwaltung von Dokumentenflüssen und Validierungsprozessen.
+- Verwaltung der physischen und digitalen Archivierung.
 - Implementierung bewährter Entwicklungspraktiken.
-
-> **Technisches Umfeld:** Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
-
-> **Fachliches Umfeld:** Verlagswesen, Veröffentlichung, Recht, Juristisch, Workflow, Schulung.
-
-#### Senior Softwareingenieur
-
-Für LexisNexis in Paris tätig.
-
-- Konzeption und Entwicklung eines Workflows zur Layoutgestaltung von juristischen Veröffentlichungen (Codes Bleus).
-- Industrialisierung der Prozesse zur Aktualisierung des Dokumentenbestands (Überarbeitungsmarken).
-- Fehlerbehebung und Weiterentwicklung des Workflows.
-- Verfassen der technischen Dokumentation.
-- Schulung der Benutzer.
-- Schulung der Mitarbeiter in Frankreich.
-- Implementierung bewährter Entwicklungspraktiken.
-
-> **Technisches Umfeld:** Excel, Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
-
-> **Fachliches Umfeld:** Verlagswesen, Veröffentlichung, Recht, Juristisch, Workflow, Schulung.
-
-#### Senior Softwareingenieur
-
-Ich habe für das United States Patent and Trademark Office (USPTO) in Omaha, Nebraska, gearbeitet.
-
-- Rolle als technischer Leiter: Führung des Entwicklungsteams in den USA und Rumänien.
-- Entwurf und Entwicklung eines Workflows zur Bearbeitung von Patentanträgen.
-- Industrialisierung der Antragsbearbeitungsprozesse.
-- Integration von OCR (Optical Character Recognition) Batch-Tools zur Unterstützung der Dateneingabe.
-- Integration interaktiver Tools zur Patentantragserfassung.
-- Korrektur und Weiterentwicklung des Workflows.
-- Schulung von Kollegen in den USA und Rumänien.
-- Implementierung von Best Practices im Bereich der Softwareentwicklung.
-- Agile Methodik unter der Leitung eines Scrum Masters (JIRA).
-
-> **Technische Umgebung:** Django REST Framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, Sphinx.
-
-> **Fachbereich:** Patente, Veröffentlichungen, Recht, Workflow, Schulung.
-
-#### Senior Softwareingenieur
-
-In der Abteilung "Allgemeine Werkzeuge" habe ich an der Entwicklung von Workflows und generischen Webservices
-zur Umsetzung des [NF 544][nf-544]-Standards (Konformität bei der Original-Scannung)
-innerhalb von BPO-Workflows (Entwicklung eines generischen Workflow-Modells) teilgenommen.
-
-Unter der Leitung eines technischen Leiters:
-
-- Entwicklung von Batch-Modulen für den generischen Workflow mit Python.
-- Entwicklung von Python-Webservices mit Django REST Framework.
-- Entwicklung von PostgreSQL-Datenbank-Migrations-Skripten.
-- Verfassen und Aktualisieren der technischen Dokumentation mit Sphinx.
-- Schulung von Entwicklern zur Implementierung eines Dematerialisierungs-Workflows gemäß dem NF 544-Standard.
+- Entwicklung des Workflows und der Webservices in Python.
 - Agile Methodik unter der Leitung eines Scrum Masters (iceScrum).
 
-> **Technische Umgebung:** Django REST Framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, REST,
-> Sphinx, Windows.
+> **Technisches Umfeld:** Git, GitLab, Linux, MySQL, Python, REST, Unit Testing, Windows.
 
-> **Fachbereich:** Dematerialisierung, Scannen, Archivierung, Workflow, Webdienste, NF 544-Standard, Agilität.
+> **Fachliches Umfeld:** Digitalisierung, Rechnungsstellung, Versicherung, Archivierung, Workflow, Webservices.
 
-[nf-544]: https://certification.afnor.org/services/prestation-numerisation-fidele-document-support-papier
+#### Senior Softwareingenieur
+
+Für das Observatoire des Statistiques des französischen Ministeriums für Ökologie und nachhaltige Entwicklung tätig.
+
+- Entwicklung eines TYPO3-CMS zur Veröffentlichung von Umweltstatistiken.
+- Konzeption und Entwicklung spezifischer Module in PHP.
+- Leitung des Entwicklungsteams im Senegal.
+- Implementierung bewährter Entwicklungspraktiken.
+- Einhaltung der RGAA-Normen (Référentiel Général d'Accessibilité pour les Administrations).
+- Verfassen des Konzeptionsdokuments und der technischen Spezifikationen.
+- Erstellung der Benutzerdokumentation.
+- Schulung der Benutzer.
+
+> **Technisches Umfeld:** Apache, CSS, HTML, JavaScript, Linux, MySQL, PHP, Subversion, TYPO3.
+
+> **Fachliches Umfeld:** Statistiken, Umwelt, Ökologie, Nachhaltige Entwicklung, Veröffentlichung, CMS, RGAA.
+
+#### Softwareingenieur
+
+Für die Éditions Joly in Paris tätig.
+
+- Implementierung eines CMS (Content Management Systems) zur Aktualisierung von Studien und juristischen Formularen.
+- Entwicklung und Implementierung eines Veröffentlichungssystems in Java.
+- Integration mit einem Veröffentlichungsworkflow.
+
+> **Technisches Umfeld:** CSS, HTML, Java, Subversion, Windows, XML, XSLT.
+
+> **Fachliches Umfeld:** Verlagswesen, Veröffentlichung, Recht, Juristisch, CMS.
+
+#### Softwareingenieur
+
+Für die Bibliothèque nationale de France (BnF) in Paris und andere lokale Behörden.
+
+- Entwicklung eines Workflows zur Digitalisierung und Indexierung von Kulturdokumenten.
+- Implementierung bewährter Entwicklungspraktiken.
+- UML-Design und Perl-Entwicklung.
+
+> **Technisches Umfeld:** Linux, Perl, Subversion, UML, XML, XSLT.
+
+> **Fachliches Umfeld:** Digitalisierung, Kulturerbe, Metadatenverwaltung.
+
+#### Softwareingenieur
+
+Für das Amt für Amtliche Veröffentlichungen der Europäischen Gemeinschaften (OPOCE) in Luxemburg.
+
+- Entwicklung eines Workflows zur Formatierung (MEF) und Seitengestaltung (MEP) der offiziellen Veröffentlichungen der
+  Europäischen Union in 24 Sprachen.
+- Industrialisierung der Produktionsprozesse.
+
+> **Technisches Umfeld:** Linux, PDF, Python, Shell, Subversion, Word, XML, XSLT.
+
+> **Fachliches Umfeld:** Dokumentation, Sprachen, Veröffentlichung, Europäische Union, Seitenlayout.
 
 ### Softwareingenieur
 

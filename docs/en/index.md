@@ -68,118 +68,25 @@ and production studies in France and Europe, spanning short, medium, and long te
   to <input type="date" value="2023-12-31" readonly> **19 years 10 months**
   at Luminess (formerly Jouve in Mayenne, France)
 
-#### Software Engineer
-
-I worked for the Office of Official Publications of the European Communities (OPOCE) in Luxembourg. My responsibilities
-included developing a workflow for formatting (MEF) and layout (MEP) of official publications from the European Union
-in 24 languages. I also contributed to industrializing production processes.
-
-> **Technical Environment:** Linux, PDF, Python, Shell, Subversion, Word, XML, XSLT.
-
-> **Business Domain:** Documentation, Languages, Publication, European Union, Layout.
-
-#### Software Engineer
-
-For the Bibliothèque nationale de France (BnF) in Paris and other local authorities:
-
-- Developed a workflow for digitizing and indexing heritage documents.
-- Implemented best development practices.
-- Worked with UML and Perl.
-
-> **Technical Environment:** Linux, Perl, Subversion, UML, XML, XSLT.
-
-> **Business Domain:** Digitization, Heritage, Metadata Management.
-
-#### Software Engineer
-
-For Éditions Joly in Paris:
-
-- Set up a Content Management System (CMS) for updating legal studies and forms.
-- Developed and implemented a Java-based publishing system.
-- Integrated with a publication workflow.
-
-> **Technical Environment:** CSS, HTML, Java, Subversion, Windows, XML, XSLT.
-
-> **Business Domain:** Publishing, Legal, CMS.
-
 #### Senior Software Engineer
 
-For the Observatoire des Statistiques (Statistics Observatory) at the Ministry of Ecology and Sustainable Development:
+Within the General Tools service:
 
-- Developed a TYPO3 CMS for publishing environmental statistics.
-- Designed and developed specific modules in PHP.
-- Led the development team in Senegal.
-- Implemented best development practices.
-- Ensured compliance with RGAA (General Accessibility Reference for Administrations).
-- Wrote design documents and technical specifications.
-- Created user documentation.
-- Conducted user training.
-
-> **Technical Environment:** Apache, CSS, HTML, JavaScript, Linux, MySQL, PHP, Subversion, TYPO3.
-
-> **Business Domain:** Statistics, Environment, Ecology, Sustainable Development, Publishing, CMS, RGAA.
-
-#### Senior Software Engineer
-
-Within LUMINESS' Business Process Outsourcing (BPO) service:
-
-- Managed document flows and validation processes.
-- Handled physical and digital archiving.
-- Implemented best development practices.
-- Developed Python-based workflows and web services.
+- Collaborated with a technical leader.
+- Developed generic workflows and web services to implement the [NF 544][nf-544] standard (faithful digitization of original documents) within BPO workflows (generic workflow model development).
+- Developed batch modules for the generic workflow in Python.
+- Developed Python web services using Django REST framework.
+- Created scripts for migrating the PostgreSQL database.
+- Wrote and updated technical documentation using Sphinx.
+- Trained developers to implement a digitization workflow compliant with the NF 544 standard.
 - Followed Agile methodology under the guidance of a Scrum Master (iceScrum).
 
-> **Technical Environment:** Git, GitLab, Linux, MySQL, Python, REST, Unit Testing, Windows.
+> **Technical Environment:** Django REST framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, REST,
+> Sphinx, Windows.
 
-> **Business Domain:** Digitization, Invoicing, Insurance, Archiving, Workflow, Web Services.
+> **Business Domain:** Digitization, Scanning, Archiving, Workflow, Web Services, NF 544 Standard, Agility.
 
-#### Senior Software Engineer
-
-In the Pre-press service, with a second technical leader:
-
-- Took on the role of technical leader, overseeing the development team in Chennai, India.
-- Wrote technical specifications.
-- Stayed updated on document formats, including handling images, tables, and mathematical formulas.
-- Trained colleagues in India.
-- Implemented best development practices.
-- Developed a conversion tool in Python and XSLT for Word to XML (DocBook format).
-- Followed Agile methodology (Scrum).
-
-> **Technical Environment:** DocBook, Git, GitLab, Linux, Python, Unit Testing, Word, XML, XSLT.
-
-> **Business Domain:** Publishing, Workflow, Training, Conversion, Microsoft Office, Technology Watch.
-
-#### Senior Software Engineer
-
-For LexisNexis in Paris:
-
-- Designed and developed a layout workflow for legal publications (JurisClasseur).
-- Industrialized the process of updating mobile sheets.
-- Performed corrective and evolutionary maintenance on the workflow.
-- Wrote technical documentation.
-- Conducted user training.
-- Trained colleagues in France and Madagascar.
-- Implemented best development practices.
-
-> **Technical Environment:** Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
-
-> **Business Domain:** Publishing, Legal, Workflow, Training, Documentation.
-
-#### Senior Software Engineer
-
-For LexisNexis in Paris:
-
-- Designed and developed a layout workflow for legal publications (Codes Bleus).
-- Industrialized the process of updating the document repository (revision marks).
-- Performed corrective and evolutionary maintenance on the workflow.
-- Wrote technical documentation.
-- Conducted user training.
-- Trained colleagues in France.
-- Implemented best development practices.
-
-> **Technical Environment:** Excel, Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
-
-> **Business Domain:** Publishing, Legal, Workflow, Training.
+[nf-544]: https://certification.afnor.org/services/prestation-numerisation-fidele-document-support-papier
 
 #### Senior Software Engineer
 
@@ -201,23 +108,116 @@ For the United States Patent and Trademark Office (USPTO) in Omaha, Nebraska:
 
 #### Senior Software Engineer
 
-Within the General Tools service:
+For LexisNexis in Paris:
 
-- Collaborated with a technical leader.
-- Developed generic workflows and web services to implement the [NF 544][nf-544] standard (faithful digitization of original documents) within BPO workflows (generic workflow model development).
-- Developed batch modules for the generic workflow in Python.
-- Developed Python web services using Django REST framework.
-- Created scripts for migrating the PostgreSQL database.
-- Wrote and updated technical documentation using Sphinx.
-- Trained developers to implement a digitization workflow compliant with the NF 544 standard.
+- Designed and developed a layout workflow for legal publications (Codes Bleus).
+- Industrialized the process of updating the document repository (revision marks).
+- Performed corrective and evolutionary maintenance on the workflow.
+- Wrote technical documentation.
+- Conducted user training.
+- Trained colleagues in France.
+- Implemented best development practices.
+
+> **Technical Environment:** Excel, Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
+
+> **Business Domain:** Publishing, Legal, Workflow, Training.
+
+#### Senior Software Engineer
+
+For LexisNexis in Paris:
+
+- Designed and developed a layout workflow for legal publications (JurisClasseur).
+- Industrialized the process of updating mobile sheets.
+- Performed corrective and evolutionary maintenance on the workflow.
+- Wrote technical documentation.
+- Conducted user training.
+- Trained colleagues in France and Madagascar.
+- Implemented best development practices.
+
+> **Technical Environment:** Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
+
+> **Business Domain:** Publishing, Legal, Workflow, Training, Documentation.
+
+#### Senior Software Engineer
+
+In the Pre-press service, with a second technical leader:
+
+- Took on the role of technical leader, overseeing the development team in Chennai, India.
+- Wrote technical specifications.
+- Stayed updated on document formats, including handling images, tables, and mathematical formulas.
+- Trained colleagues in India.
+- Implemented best development practices.
+- Developed a conversion tool in Python and XSLT for Word to XML (DocBook format).
+- Followed Agile methodology (Scrum).
+
+> **Technical Environment:** DocBook, Git, GitLab, Linux, Python, Unit Testing, Word, XML, XSLT.
+
+> **Business Domain:** Publishing, Workflow, Training, Conversion, Microsoft Office, Technology Watch.
+
+#### Senior Software Engineer
+
+Within LUMINESS' Business Process Outsourcing (BPO) service:
+
+- Managed document flows and validation processes.
+- Handled physical and digital archiving.
+- Implemented best development practices.
+- Developed Python-based workflows and web services.
 - Followed Agile methodology under the guidance of a Scrum Master (iceScrum).
 
-> **Technical Environment:** Django REST framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, REST,
-> Sphinx, Windows.
+> **Technical Environment:** Git, GitLab, Linux, MySQL, Python, REST, Unit Testing, Windows.
 
-> **Business Domain:** Digitization, Scanning, Archiving, Workflow, Web Services, NF 544 Standard, Agility.
+> **Business Domain:** Digitization, Invoicing, Insurance, Archiving, Workflow, Web Services.
 
-[nf-544]: https://certification.afnor.org/services/prestation-numerisation-fidele-document-support-papier
+#### Senior Software Engineer
+
+For the Observatoire des Statistiques (Statistics Observatory) at the Ministry of Ecology and Sustainable Development:
+
+- Developed a TYPO3 CMS for publishing environmental statistics.
+- Designed and developed specific modules in PHP.
+- Led the development team in Senegal.
+- Implemented best development practices.
+- Ensured compliance with RGAA (General Accessibility Reference for Administrations).
+- Wrote design documents and technical specifications.
+- Created user documentation.
+- Conducted user training.
+
+> **Technical Environment:** Apache, CSS, HTML, JavaScript, Linux, MySQL, PHP, Subversion, TYPO3.
+
+> **Business Domain:** Statistics, Environment, Ecology, Sustainable Development, Publishing, CMS, RGAA.
+
+#### Software Engineer
+
+For Éditions Joly in Paris:
+
+- Set up a Content Management System (CMS) for updating legal studies and forms.
+- Developed and implemented a Java-based publishing system.
+- Integrated with a publication workflow.
+
+> **Technical Environment:** CSS, HTML, Java, Subversion, Windows, XML, XSLT.
+
+> **Business Domain:** Publishing, Legal, CMS.
+
+#### Software Engineer
+
+For the Bibliothèque nationale de France (BnF) in Paris and other local authorities:
+
+- Developed a workflow for digitizing and indexing heritage documents.
+- Implemented best development practices.
+- Worked with UML and Perl.
+
+> **Technical Environment:** Linux, Perl, Subversion, UML, XML, XSLT.
+
+> **Business Domain:** Digitization, Heritage, Metadata Management.
+
+#### Software Engineer
+
+I worked for the Office of Official Publications of the European Communities (OPOCE) in Luxembourg. My responsibilities
+included developing a workflow for formatting (MEF) and layout (MEP) of official publications from the European Union
+in 24 languages. I also contributed to industrializing production processes.
+
+> **Technical Environment:** Linux, PDF, Python, Shell, Subversion, Word, XML, XSLT.
+
+> **Business Domain:** Documentation, Languages, Publication, European Union, Layout.
 
 ### Software Engineer
 
