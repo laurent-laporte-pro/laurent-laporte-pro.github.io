@@ -68,7 +68,7 @@ une application de simulation des études sur la consommation et la production d
 ### Ingénieur logiciel sénior
 
 ⇨ du <input type="date" value="2004-02-23" readonly>
-  au <input type="date" value="2023-12-31" readonly> **19 ans 10 mois**
+  au <input type="date" value="2022-12-31" readonly> **18 ans 10 mois**
   chez Luminess (anciennement Jouve à Mayenne 53)
 
 #### Ingénieur Logiciel Sénior

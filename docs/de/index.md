@@ -68,7 +68,7 @@ zur Stromverbrauchs- und -erzeugung in Frankreich und Europa im kurz-, mittel- u
 ### Senior Softwareingenieur
 
 ⇨ von <input type="date" value="2004-02-23" readonly>
-  bis <input type="date" value="2023-12-31" readonly> **19 Jahre 10 Monate**
+  bis <input type="date" value="2022-12-31" readonly> **18 Jahre 10 Monate**
   bei Luminess (ehemals Jouve in Mayenne 53)
 
 #### Senior Softwareingenieur

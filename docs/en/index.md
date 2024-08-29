@@ -65,7 +65,7 @@ and production studies in France and Europe, spanning short, medium, and long te
 ### Senior Software Engineer
 
 ⇨ From <input type="date" value="2004-02-23" readonly>
-  to <input type="date" value="2023-12-31" readonly> **19 years 10 months**
+  to <input type="date" value="2022-12-31" readonly> **18 years 10 months**
   at Luminess (formerly Jouve in Mayenne, France)
 
 #### Senior Software Engineer
