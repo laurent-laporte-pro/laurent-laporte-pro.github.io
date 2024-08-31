@@ -185,7 +185,7 @@ Für das Observatoire des Statistiques des französischen Ministeriums für Öko
 - Konzeption und Entwicklung spezifischer Module in PHP.
 - Leitung des Entwicklungsteams im Senegal.
 - Implementierung bewährter Entwicklungspraktiken.
-- Einhaltung der RGAA-Normen (Référentiel Général d'Accessibilité pour les Administrations).
+- Einhaltung der RGAA-Normen (Référentiel Général d’Accessibilité pour les Administrations).
 - Verfassen des Konzeptionsdokuments und der technischen Spezifikationen.
 - Erstellung der Benutzerdokumentation.
 - Schulung der Benutzer.

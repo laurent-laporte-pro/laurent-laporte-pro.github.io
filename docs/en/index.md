@@ -156,7 +156,7 @@ In the Pre-press service, with a second technical leader:
 
 #### Senior Software Engineer
 
-Within LUMINESS' Business Process Outsourcing (BPO) service:
+Within LUMINESS’ Business Process Outsourcing (BPO) service:
 
 - Managed document flows and validation processes.
 - Handled physical and digital archiving.
@@ -324,7 +324,7 @@ Mayenne is also twinned with Jesi in Italy, although no exchange has been organi
 I regularly attended evening classes to improve my German.
 
 I enjoy inline roller skating and cross-training (intensive indoor workouts).
-I've also practiced recreational boxing.
+I have also practiced recreational boxing.
 
 ## Diplomas
 
