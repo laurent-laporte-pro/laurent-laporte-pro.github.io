@@ -279,6 +279,16 @@ de documents de spécification et maquettage).
 
 ## Formations
 
+### MON AVENIR PRO
+
+⇨ **Août 2024**
+
+**Le management des équipes** –
+Faire adhérer les collaborateurs à atteindre les objectifs de l’entreprise.
+Assurer la motivation et l’implication du personnel.
+Développer l’autonomie des équipes.
+Gérer les conflits…
+
 ### CEL CCI de la Mayenne
 
 ⇨ **février 2018**

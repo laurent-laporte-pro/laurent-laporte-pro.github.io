@@ -264,7 +264,17 @@ writing specifications, and creating mockups).
 > Local Authorities.
 
 
-## Education
+## Training
+
+### MON AVENIR PRO
+
+⇨ **August 2024**
+
+**Team Management** –
+Getting employees to achieve company goals.
+Ensuring motivation and involvement of staff.
+Developing team autonomy.
+Conflict management…
 
 ### CEL CCI de la Mayenne
 

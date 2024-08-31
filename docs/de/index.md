@@ -278,6 +278,16 @@ Spezifikationsdokumenten und Mock-ups).
 
 ## Ausbildung
 
+### MON AVENIR PRO
+
+⇨ **August 2024**
+
+**Teammanagement** –
+Mitarbeiter dazu bringen, die Unternehmensziele zu erreichen.
+Sicherstellung der Motivation und Einbindung des Personals.
+Entwicklung der Autonomie der Teams.
+Konfliktmanagement…
+
 ### CEL CCI de la Mayenne
 
 ⇨ **Februar 2018**
