@@ -185,7 +185,7 @@ Für das Observatoire des Statistiques des französischen Ministeriums für Öko
 - Konzeption und Entwicklung spezifischer Module in PHP.
 - Leitung des Entwicklungsteams im Senegal.
 - Implementierung bewährter Entwicklungspraktiken.
-- Einhaltung der RGAA-Normen (Référentiel Général d'Accessibilité pour les Administrations).
+- Einhaltung der RGAA-Normen (Référentiel Général d’Accessibilité pour les Administrations).
 - Verfassen des Konzeptionsdokuments und der technischen Spezifikationen.
 - Erstellung der Benutzerdokumentation.
 - Schulung der Benutzer.
@@ -277,6 +277,16 @@ Spezifikationsdokumenten und Mock-ups).
 > Kommunalverwaltungen.
 
 ## Ausbildung
+
+### MON AVENIR PRO
+
+⇨ **August 2024**
+
+**Teammanagement** –
+Mitarbeiter dazu bringen, die Unternehmensziele zu erreichen.
+Sicherstellung der Motivation und Einbindung des Personals.
+Entwicklung der Autonomie der Teams.
+Konfliktmanagement…
 
 ### CEL CCI de la Mayenne
 

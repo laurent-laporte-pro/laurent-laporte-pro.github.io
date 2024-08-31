@@ -26,7 +26,7 @@ technique (Sphinx, MkDocs, Confluence).
 
 Autonome et capable de communiquer efficacement avec les clients et les équipes, je suis mobile sur Laval, Rennes et
 Paris, et ouvert au télétravail.
-Actuellement, je suis une formation en ligne sur le management pour enrichir mes compétences en gestion d’équipe.
+J’ai récemment terminé une formation en management, renforçant ainsi mes compétences en gestion d’équipe.
 
 Je suis disponible pour un entretien à votre convenance et vous remercie pour l’attention portée à ma candidature.
 
@@ -45,7 +45,7 @@ Selenium), software quality (SonarCloud, Codecov, Ruff, Mypy) and technical docu
 
 Autonomous and able to communicate effectively with clients and teams, I am mobile in Laval, Rennes and Paris, and open
 to telecommuting. Paris, and open to telecommuting.
-Currently, I am taking an online management course to enhance my team management skills.
+I recently completed a management course, enhancing my team management skills.
 
 I am available for an interview at your convenience and would like to thank you for considering my application.
 
@@ -64,7 +64,7 @@ Selenium), Softwarequalität (SonarCloud, Codecov, Ruff, Mypy) und technische Do
 
 Ich bin selbständig und in der Lage, effizient mit Kunden und Teams zu kommunizieren. Ich bin mobil in Laval, Rennes
 und Paris und offen für Telearbeit.
-Zurzeit belege ich einen Online-Kurs in Management, um meine Team-Management-Fähigkeiten zu verbessern.
+Ich habe kürzlich einen Managementkurs abgeschlossen, um meine Team-Management-Fähigkeiten zu verbessern.
 
 Ich stehe Ihnen jederzeit für ein Vorstellungsgespräch zur Verfügung und danke Ihnen für die Berücksichtigung
 meiner Bewerbung.
