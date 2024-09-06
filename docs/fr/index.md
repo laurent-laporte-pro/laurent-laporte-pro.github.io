@@ -78,6 +78,7 @@ génériques permettant de mettre en œuvre la norme [NF 544][nf-544] (Numérisa
 au sein des workflow BPO (développement d’un modèle de workflow générique).
 
 Sous la direction d’un technical leader :
+
 - Développement des modules batch du workflow générique en Python.
 - Développement des webservices Python avec Django REST framework.
 - Développement des scripts de migration de la base de données PostgreSQL.
