@@ -65,170 +65,88 @@ une application de simulation des études sur la consommation et la production d
 > **Environnement métier :** Antares, Documentation, Électricité, Énergie, Environnement, Formation, Projet,
 > Recrutement, Scrum, Simulation, Spécification, Veille technologique.
 
-### Ingénieur logiciel sénior
+### Ingénieur logiciel sénior – Leader technique
 
 ⇨ du <input type="date" value="2004-02-23" readonly>
   au <input type="date" value="2022-12-31" readonly> **18 ans 10 mois**
   chez Luminess (anciennement Jouve à Mayenne 53)
 
-#### Ingénieur Logiciel Sénior
+Au sein de Luminess, j’ai occupé des fonctions de développement et de leadership technique sur divers projets majeurs
+dans des environnements internationaux et des secteurs variés tels que la numérisation, la gestion des brevets,
+l’édition juridique, et la dématérialisation de documents…
 
-Au sein du service Outils Généraux, j’ai participé au développement des workflows et des webservices
-génériques permettant de mettre en œuvre la norme [NF 544][nf-544] (Numérisation conforme à l’original)
-au sein des workflow BPO (développement d’un modèle de workflow générique).
+**Missions principales&nbsp;:**
 
-Sous la direction d’un technical leader :
-- Développement des modules batch du workflow générique en Python.
-- Développement des webservices Python avec Django REST framework.
-- Développement des scripts de migration de la base de données PostgreSQL.
-- Rédaction et mise à jour de la documentation technique en Sphinx.
-- Formation des développeurs pour la mise en place d’un workflow de dématérialisation permettant de respecter
-  la norme NF 544.
-- Méthodologie Agile sous la direction d’un Scrum Master (iceScrum).
+-   **Numérisation et dématérialisation (Norme NF 544)**&nbsp;:
+    Conception de workflows et de webservices en Python pour des processus BPO conformes à la norme [NF 544][nf-544].
+    Participation au développement d’un modèle de workflow générique.
+    Formation d’équipes et rédaction de documentation technique.
 
-> **Environnement technique :** Django REST framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, REST,
-> Sphinx, Windows.
+    > **Environnement technique&nbsp;:** Python, Django REST Framework, PostgreSQL, pytest, Agile (Scrum).
 
-> **Environnement métier :** Dématérialisation, Numérisation, Archivage, Workflow, Webservices, Norme NF 544, Agilité.
+    [nf-544]: https://certification.afnor.org/services/prestation-numerisation-fidele-document-support-papier
 
-[nf-544]: https://certification.afnor.org/services/prestation-numerisation-fidele-document-support-papier
+-   **Gestion des demandes de brevets ([USPTO](https://www.uspto.gov/), USA)**&nbsp;:
+    Technical leader sur un projet de traitement de brevets, pilotage d’équipes aux États-Unis et en Roumanie,
+    et intégration d’outils d’OCR et d’assistance à la saisie.
+    Mise en place des bonnes pratiques de développement et de tests.
 
-#### Ingénieur Logiciel Sénior
+    > **Environnement technique&nbsp;:** Python, Django REST Framework, PostgreSQL, pytest, OCR, Agile (Scrum).
 
-Pour le compte de l’Office des Brevets Américain (USPTO) à Omaha (Nebraska).
+-   **Édition juridique ([LexisNexis](https://www.lexisnexis.com/), Paris)**&nbsp;:
+    Développement de workflows pour la mise en page des publications juridiques (Codes Bleus).
+    Industrialisation des processus de mise à jour du fond documentaire et formation des équipes en France et Madagascar.
 
-- Rôle de technical leader : pilotage de l’équipe de développement aux États-Unis et en Roumanie.
-- Conception et développement d’un workflow de traitement des demandes de brevets.
-- Industrialisation des processus de traitement des demandes.
-- Intégration des outils batch d’OCR (Reconnaissance Optique de Caractères) pour l’assistance à la saisie.
-- Intégration des outils interactifs de saisi des demandes de brevets.
-- Maintenance corrective et évolutive du workflow.
-- Formation des collaborateurs aux États-Unis et en Roumanie.
-- Mise en place de bonnes pratiques de développement.
-- Méthodologie Agile sous la direction d’un Scrum Master (JIRA).
+    > **Environnement technique :** Excel, Python, pytest, Sphinx, Windows, XML, XSLT.
 
-> **Environnement technique :** Django REST framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, Sphinx.
+-   **Édition juridique (LexisNexis, Paris)**&nbsp;:
+    Conception et développement d’un workflow de mise en page des publications juridiques (JurisClasseur).
+    Industrialisation des processus de mise à jour des feuillets mobiles et formation des équipes en France et Madagascar.
+    Mise en place des bonnes pratiques de développement et de tests.
 
-> **Environnement métier :** Brevets, Publication, Droit, Juridique, Workflow, Formation.
+    > **Environnement technique :** Python, pytest, Sphinx, Windows, XML, XSLT.
 
-#### Ingénieur Logiciel Sénior
+-   **Conversion de documents (Luminess, Chennai – Inde)**&nbsp;:
+    Développement d’un outil de conversion de documents Word en XML (format DocBook) en tant que technical leader,
+    coordination d’une équipe en Inde, rédaction de spécifications techniques en anglais et formation des collaborateurs.
 
-Pour le compte des éditions LexisNexis à Paris.
+    > **Environnement technique&nbsp;:** Python, MathML, DocBook, XML, XSLT.
 
-- Conception et développement d’un workflow de mise en page des publications juridiques (Codes Bleus).
-- Industrialisation des processus de mise à jour du fond documentaire (marques de révision).
-- Maintenance corrective et évolutive du workflow.
-- Rédaction de la documentation technique.
-- Formation des utilisateurs.
-- Formation des collaborateurs en France.
-- Mise en place de bonnes pratiques de développement.
+-   **Dématérialisation de documents**&nbsp;:
+    Développement de workflows pour la gestion des flux de documents administratifs et factures (AXA, BNP Paribas, etc.).
 
-> **Environnement technique :** Excel, Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
+    > **Environnement technique&nbsp;:** Python, MySQL, REST.
 
-> **Environnement métier :** Édition, Publication, Droit, Juridique, Workflow, Formation.
+-   **CMS (Ministère de l’Écologie et du Développement Durable)**&nbsp;:
+    Conception de CMS pour la publication de statistiques environnementales.
+    Conception et développement de modules spécifiques en PHP.
+    Pilotage de l’équipe de développement au Sénégal.
+    Mise en conformité avec les normes RGAA (Référentiel Général d’Accessibilité pour les Administrations).
 
-#### Ingénieur Logiciel Sénior
+    > **Environnement technique&nbsp;:** Apache, PHP, TYPO3, MySQL, RGAA, HTML, CSS.
 
-Pour le compte des éditions LexisNexis à Paris.
+-   **CMS et publication (Éditions Joly, Paris)**&nbsp;:
+    Mise en place d’un CMS pour la mise à jour des études et des formulaires juridiques.
+    Développement et mise en production d’un système de publication en Java.
+    Intégration avec un workflow de composition et mise en page.
 
-- Conception et développement d’un workflow de mise en page des publications juridiques (JurisClasseur).
-- Industrialisation des processus de mise à jour des feuillets mobiles.
-- Maintenance corrective et évolutive du workflow.
-- Rédaction de la documentation technique.
-- Formation des utilisateurs.
-- Formation des collaborateurs en France et à Madagascar.
-- Mise en place de bonnes pratiques de développement.
+    > **Environnement technique&nbsp;:** Java, CMS, XML, XSLT, HTML, CSS.
 
-> **Environnement technique :** Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
+-   **Numérisation des fonds patrimoniaux (Bibliothèque Nationale de France, Paris)**&nbsp;:
+    Développement d’un workflow de numérisation et d’indexation de documents patrimoniaux pour [Gallica][gallica].
+    Mise en place de bonnes pratiques de développement.
+    Conception UML et développement Perl.
 
-> **Environnement métier :** Édition, Publication, Droit, Juridique, Workflow, Formation.
+    > **Environnement technique :** Perl, Subversion, UML, XML, XSLT.
 
-#### Ingénieur Logiciel Sénior
+    [gallica]: https://gallica.bnf.fr/
 
-Au sein du service Composition Numérique, j’ai participé au développement d’un outil de conversion de documents
-Word en XML (format DocBook).
+-   **Mise en page de documents juridiques ([OPOCE](https://op.europa.eu/), Luxembourg)**&nbsp;:
+    Développement d’un workflow de mise en forme (MEF) et de mise en page (MEP) des publications officielles de
+    l’Union Européenne en 24 langues.
+    Industrialisation des processus de production.
 
-En collaboration avec un second technical leader :
-
-- Rôle de technical leader : pilotage de l’équipe de développement à Chennai (Inde).
-- Rédaction des spécifications techniques (en anglais).
-- Veille technologique sur les formats de documents : gestion des images, des tableaux, des formules mathématiques.
-- Formation des collaborateurs en Inde.
-- Mise en place de bonnes pratiques de développement.
-- Développement de l’outil de conversion en Python et XSLT (relecture de code, tests unitaires).
-- Méthodologie Agile (Scrum).
-
-> **Environnement technique :** DocBook, Git, GitLab, Linux, Python, Unit Testing, Word, XML, XSLT.
-
-> **Environnement métier :** Édition, Workflow, Formation, Conversion, Microsoft Office, Veille technologique
-
-#### Ingénieur Logiciel Sénior
-
-Au sein du service BPO (Business Process Outsourcing) de LUMINESS, j’ai participé à la mise en place de processus
-industrialisés pour dématérialiser les documents administratifs et les factures clients.
-
-- Gestion des flux de documents et des processus de validation.
-- Gestion de l’archivage physique et numérique.
-- Mise en place de bonnes pratiques de développement.
-- Développement du workflow et des webservices en Python.
-- Méthodologie Agile sous la direction d’un Scrum Master (iceScrum).
-
-> **Environnement technique :** Git, GitLab, Linux, MySQL, Python, REST, Unit Testing, Windows.
-
-> **Environnement métier :** Dématérialisation, Facturation, Assurance, Archivage, Workflow, Webservices.
-
-#### Ingénieur Logiciel Sénior
-
-Pour le compte de l’Observatoire des Statistiques du ministère de l’Écologie et du développement durable.
-
-- Développement d’un CMS TYPO3 pour la publication des statistiques sur l’environnement.
-- Conception et développement de modules spécifiques en PHP.
-- Piloter l’équipe de développement au Sénégal.
-- Mise en place de bonnes pratiques de développement.
-- Mise en conformité avec les normes RGAA (Référentiel Général d’Accessibilité pour les Administrations).
-- Rédaction du document de conception et des spécifications techniques.
-- Rédaction de la documentation utilisateur.
-- Formation des utilisateurs.
-
-> **Environnement technique :** Apache, CSS, HTML, JavaScript, Linux, MySQL, PHP, Subversion, TYPO3.
-
-> **Environnement métier :** Statistiques, Environnement, Écologie, Développement durable, Publication, CMS, RGAA.
-
-#### Ingénieur Logiciel
-
-Pour le compte des Éditions Joly à Paris.
-
-- Mise en place d’un CMS (Content Management System) pour la mise à jour des études et des formulaires juridiques.
-- Développement et mise en place d’un système de publication en Java.
-- Intégration avec un workflow de publications.
-
-> **Environnement technique :** CSS, HTML, Java, Subversion, Windows, XML, XSLT.
-
-> **Environnement métier :** Édition, Publication, Droit, Juridique, CMS.
-
-#### Ingénieur Logiciel
-
-Pour le compte de la Bibliothèque nationale de France (BnF) à Paris et autres collectivités territoriales.
-
-- Développement d’un workflow de numérisation et d’indexation de documents patrimoniaux.
-- Mise en place de bonnes pratiques de développement.
-- Conception UML et développement Perl.
-
-> **Environnement technique :** Linux, Perl, Subversion, UML, XML, XSLT.
-
-> **Environnement métier :** Numérisation, Patrimoine, Gestion des méta-données.
-
-#### Ingénieur Logiciel
-
-Pour le compte de l’Office des Publications Officielles des Communautés Européennes (OPOCE) au Luxembourg.
-
-- Développement d’un workflow de mise en forme (MEF) et de mise en page (MEP) des publications officielles de
-  l’Union Européenne en 24 langues.
-- Industrialisation des processus de production.
-
-> **Environnement technique :** Linux, PDF, Python, Shell, Subversion, Word, XML, XSLT.
-
-> **Environnement métier :** Documentation, Langues, Publication, Union Européenne, Mise en page.
+    > **Environnement technique :** PDF, Python, Shell, Subversion, Word, XML, XSLT.
 
 ### Ingénieur logiciel
 
@@ -311,7 +229,7 @@ DIPLÔME D’INGÉNIEUR : Génie Logiciel - Production Logiciel
 
 ### Outils et langages de programmation
 
-Agile, Apache, Arrow, Black, C++, CentOS, CI/CD, Confluence, CSS, Django REST framework, DocBook, Docker,
+Agile, Apache, Arrow, Black, C++, CentOS, CI/CD, Confluence, CSS, Django REST Framework, DocBook, Docker,
 Dreamweaver, DSSSL, ELK, Excel, FastAPI, Git, GitHub, GitLab, Hatch, HTML, iSort, Java, JavaScript, Jenkins,
 Jira, Linux, macOS, Miles 33 Oasys, MyPy, MySQL, OmniMark (Stilo), OpenAPI, Pandas, PDF, Perl, PHP,
 PostgreSQL, pytest, Python, React, Redis, REST, SGML, Shell, SLURM, SonarCloud, Sphinx, SQLAlchemy, SQLite,
