@@ -80,14 +80,14 @@ au sein des workflow BPO (développement d’un modèle de workflow générique)
 Sous la direction d’un technical leader :
 
 - Développement des modules batch du workflow générique en Python.
-- Développement des webservices Python avec Django REST framework.
+- Développement des webservices Python avec Django REST Framework.
 - Développement des scripts de migration de la base de données PostgreSQL.
 - Rédaction et mise à jour de la documentation technique en Sphinx.
 - Formation des développeurs pour la mise en place d’un workflow de dématérialisation permettant de respecter
   la norme NF 544.
 - Méthodologie Agile sous la direction d’un Scrum Master (iceScrum).
 
-> **Environnement technique :** Django REST framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, REST,
+> **Environnement technique :** Django REST Framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, REST,
 > Sphinx, Windows.
 
 > **Environnement métier :** Dématérialisation, Numérisation, Archivage, Workflow, Webservices, Norme NF 544, Agilité.
@@ -108,7 +108,7 @@ Pour le compte de l’Office des Brevets Américain (USPTO) à Omaha (Nebraska).
 - Mise en place de bonnes pratiques de développement.
 - Méthodologie Agile sous la direction d’un Scrum Master (JIRA).
 
-> **Environnement technique :** Django REST framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, Sphinx.
+> **Environnement technique :** Django REST Framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, Sphinx.
 
 > **Environnement métier :** Brevets, Publication, Droit, Juridique, Workflow, Formation.
 
@@ -312,7 +312,7 @@ DIPLÔME D’INGÉNIEUR : Génie Logiciel - Production Logiciel
 
 ### Outils et langages de programmation
 
-Agile, Apache, Arrow, Black, C++, CentOS, CI/CD, Confluence, CSS, Django REST framework, DocBook, Docker,
+Agile, Apache, Arrow, Black, C++, CentOS, CI/CD, Confluence, CSS, Django REST Framework, DocBook, Docker,
 Dreamweaver, DSSSL, ELK, Excel, FastAPI, Git, GitHub, GitLab, Hatch, HTML, iSort, Java, JavaScript, Jenkins,
 Jira, Linux, macOS, Miles 33 Oasys, MyPy, MySQL, OmniMark (Stilo), OpenAPI, Pandas, PDF, Perl, PHP,
 PostgreSQL, pytest, Python, React, Redis, REST, SGML, Shell, SLURM, SonarCloud, Sphinx, SQLAlchemy, SQLite,
