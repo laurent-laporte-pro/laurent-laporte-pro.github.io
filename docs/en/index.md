@@ -7,7 +7,7 @@ tags: [ curriculum vitae, CV, professional career, skills, training ]
 
 ## About
 
-🏠 **Address:** 3, rue des Lilas, 53440 La Bazoge-Montpinçon, France
+🏠 **Address:** 14 allée des marcassins, 60260 Lamorlaye, France
 
 📞 **Phone:** [(+33) 6 18 99 30 01](tel:+33618993001)
 

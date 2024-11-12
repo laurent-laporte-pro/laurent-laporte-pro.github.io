@@ -7,7 +7,7 @@ tags: [ curriculum vitae, Lebenslauf, beruflicher Werdegang, Kompetenzen, Ausbil
 
 ## Über mich
 
-🏠 **Adresse:** 3, rue des Lilas, 53440 La Bazoge-Montpinçon, Frankreich
+🏠 **Adresse:** 14 allée des marcassins, 60260 Lamorlaye, Frankreich
 
 📞 **Telefon:** [(+33) 6 18 99 30 01](tel:+33618993001)
 

@@ -7,7 +7,7 @@ tags: [ curriculum vitæ, curriculum vitae, CV, parcours professionnel, compéte
 
 ## À propos
 
-🏠 **Adresse :** 3, rue des Lilas, 53440 La Bazoge-Montpinçon, France
+🏠 **Adresse :** 14 allée des marcassins, 60260 Lamorlaye, France
 
 📞 **Tél. :** [(+33) 6 18 99 30 01](tel:+33618993001)
 
