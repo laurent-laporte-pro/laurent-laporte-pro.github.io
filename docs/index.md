@@ -6,7 +6,7 @@ tags: [ curriculum vitæ, curriculum vitae, CV, parcours professionnel, compéte
 ---
 
 <img alt="Laurent LAPORTE" src="assets/profile-laurent-laporte.png" title="Laurent LAPORTE"
-style="float: right; margin: 0 0 1em 1em; width: 192px; height: 256px"/>
+style="float: right; margin: 0 0 1em 1em; width: 256px; height: 256px"/>
 
 # Laurent LAPORTE
 
