@@ -14,15 +14,16 @@ style="float: right; margin: 0 0 1em 1em; width: 256px; height: 256px"/>
 
 Mon Curriculum vitæ est disponible en 🇫🇷 [Français](fr/index.md), ma langue maternelle.
 
-Fort de plusieurs années d’expérience en tant que leader technique, j’ai dirigé des équipes de développement, recruté et
-formé de nouveaux développeurs.
+Fort de plusieurs années d’expérience en tant que développeur sénior fullstack et leader technique,
+j’ai développé des applications complexes pour des clients internationaux.
+J’ai travaillé dans des environnements multiculturels, en France, aux États-Unis, en Roumanie…
+J’ai dirigé des équipes de développement, recruté et formé de nouveaux développeurs.
 
-Spécialisé en développement backend (Python, Django, FastAPI, Pandas), je suis également compétent en développement
-frontend (React, Angular) et l’administration système (Windows, Linux, macOS, Docker).
-Habitué aux méthodes agiles (Scrum, Jira) et aux outils de CI/CD (GitHub Actions, Jenkins), je possède une connaissance
-approfondie des architectures logicielles, bases de données (MySQL, PostgreSQL), services web (REST), des tests
-unitaires et fonctionnels (Pytest, Selenium), qualité logicielle (SonarCloud, Codecov, Ruff, Mypy) et documentation
-technique (Sphinx, MkDocs, Confluence).
+Spécialisé en développement backend (Python, Django, FastAPI), je suis également compétent en développement frontend.
+Je travaille habituellement en environnement Agile et je maîtrise les outils de CI/CD (GitHub Actions, Jenkins).
+Mes compétences couvrent tout le cycle de vie d’un projet logiciel :
+conception, développement, tests unitaires et fonctionnels, qualité logicielle, documentation technique,
+conteneurisation (Docker), mise en production, maintenance corrective et évolutive.
 
 Autonome et capable de communiquer efficacement avec les clients et les équipes, je suis mobile sur Laval, Rennes et
 Paris, et ouvert au télétravail.
@@ -34,14 +35,16 @@ Je suis disponible pour un entretien à votre convenance et vous remercie pour l
 
 My Curriculum vitae is available in 🇬🇧 [English](en/index.md), my second language (B2 level).
 
-With several years of experience as a technical leader, I have managed development teams, recruited and trained
-new developers.
+With several years of experience as a senior fullstack developer and technical leader, I have developed complex
+applications for international clients.
+I have worked in multicultural environments, in France, the United States, Romania…
+I have led development teams, recruited and trained new developers.
 
-Specialized in backend development (Python, Django, FastAPI, Pandas), I am also proficient in frontend development
-(React, Angular) and system administration (Windows, Linux, macOS, Docker).
-Accustomed to agile methods (Scrum, Jira) and CI/CD tools (GitHub Actions, Jenkins), I have in-depth knowledge
-of software architecture, databases (MySQL, PostgreSQL), web services (REST), unit and functional testing (Pytest,
-Selenium), software quality (SonarCloud, Codecov, Ruff, Mypy) and technical documentation (Sphinx, MkDocs, Confluence).
+Specialized in backend development (Python, Django, FastAPI), I am also proficient in frontend development.
+I usually work in an Agile environment and master CI/CD tools (GitHub Actions, Jenkins).
+My skills cover the entire life cycle of a software project:
+design, development, unit and functional testing, software quality, technical documentation, containerization (Docker),
+deployment, corrective and evolutionary maintenance.
 
 Autonomous and able to communicate effectively with clients and teams, I am mobile in Laval, Rennes and Paris, and open
 to telecommuting. Paris, and open to telecommuting.
@@ -53,14 +56,16 @@ I am available for an interview at your convenience and would like to thank you 
 
 Mein Lebenslauf ist verfügbar in 🇩🇪 [Deutsch](de/index.md), meine dritte Sprache (B1 Niveau).
 
-Mit meiner mehrjährigen Erfahrung als technischer Leiter habe ich Entwicklungsteams geleitet, neue Entwickler
-eingestellt und geschult.
+Mit meiner mehrjährigen Erfahrung als Senior Fullstack-Entwickler und technischer Leiter habe ich komplexe Anwendungen
+für internationale Kunden entwickelt.
+Ich habe in multikulturellen Umgebungen gearbeitet, in Frankreich, den Vereinigten Staaten, Rumänien…
+Ich habe Entwicklungsteams geleitet, neue Entwickler rekrutiert und ausgebildet.
 
-Spezialisiert auf Backend-Entwicklung (Python, Django, FastAPI, Pandas), bin ich auch versiert in Frontend-Entwicklung
-(React, Angular) und Systemadministration (Windows, Linux, macOS, Docker).
-Gewöhnt an agile Methoden (Scrum, Jira) und CI/CD-Tools (GitHub Actions, Jenkins), habe ich fundierte Kenntnisse
-in Softwarearchitektur, Datenbanken (MySQL, PostgreSQL), Webservices (REST), Unit- und Funktionstests (Pytest,
-Selenium), Softwarequalität (SonarCloud, Codecov, Ruff, Mypy) und technische Dokumentation (Sphinx, MkDocs, Confluence).
+Spezialisiert auf Backend-Entwicklung (Python, Django, FastAPI) bin ich auch versiert in der Frontend-Entwicklung.
+Ich arbeite normalerweise in einer agilen Umgebung und beherrsche CI/CD-Tools (GitHub Actions, Jenkins).
+Meine Fähigkeiten decken den gesamten Lebenszyklus eines Softwareprojekts ab:
+Design, Entwicklung, Einheiten- und Funktionstests, Softwarequalität, technische Dokumentation, Containerisierung (Docker),
+Bereitstellung, korrigierende und evolutionäre Wartung.
 
 Ich bin selbständig und in der Lage, effizient mit Kunden und Teams zu kommunizieren. Ich bin mobil in Laval, Rennes
 und Paris und offen für Telearbeit.
