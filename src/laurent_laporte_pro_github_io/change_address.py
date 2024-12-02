@@ -7,9 +7,9 @@ from pathlib import Path
 from laurent_laporte_pro_github_io import PROJECT_DIR
 
 NEW_ADDRESSES = {
-    "fr": "14 allée des marcassins, 60260 Lamorlaye, France",
-    "en": "14 allée des marcassins, 60260 Lamorlaye, France",
-    "de": "14 allée des marcassins, 60260 Lamorlaye, Frankreich",
+    "fr": "3 rue des lilas, 53440 La Bazoge-Montpinçon",
+    "en": "3 rue des lilas, 53440 La Bazoge-Montpinçon, France",
+    "de": "3 rue des lilas, 53440 La Bazoge-Montpinçon, Frankreich",
 }
 
 
