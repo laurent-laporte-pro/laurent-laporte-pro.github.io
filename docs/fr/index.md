@@ -69,7 +69,7 @@ une application de simulation des études sur la consommation et la production d
 
 ⇨ du <input type="date" value="2004-02-23" readonly>
   au <input type="date" value="2022-12-31" readonly> **18 ans 10 mois**
-  chez Luminess (anciennement Jouve à Mayenne 53)
+  chez Luminess (Mayenne 53)
 
 #### Ingénieur Logiciel Sénior – NF544
 
