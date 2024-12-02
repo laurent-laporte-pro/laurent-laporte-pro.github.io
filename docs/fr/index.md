@@ -74,7 +74,7 @@ une application de simulation des études sur la consommation et la production d
 #### Ingénieur Logiciel Sénior – NF544
 
 ⇨ du <input type="date" value="2021-09-01" readonly>
-  au <input type="date" value="2022-12-31" readonly> **1 an 4 mois**
+  au <input type="date" value="2022-12-31" readonly> **1 an 3 mois**
 
 Au sein du service Outils Généraux, j’ai participé au développement des workflows et des webservices
 génériques permettant de mettre en œuvre la norme [NF 544][nf-544] (Numérisation conforme à l’original)
@@ -99,7 +99,7 @@ Sous la direction d’un technical leader :
 #### Ingénieur Logiciel Sénior – USPTO
 
 ⇨ du <input type="date" value="2019-01-01" readonly>
-  au <input type="date" value="2021-09-30" readonly> **2 ans 9 mois**
+  au <input type="date" value="2021-08-30" readonly> **2 ans 7 mois**
 
 Pour le compte de l’Office des Brevets Américain (USPTO) à Omaha (Nebraska).
 
@@ -119,8 +119,8 @@ Pour le compte de l’Office des Brevets Américain (USPTO) à Omaha (Nebraska).
 
 #### Ingénieur Logiciel Sénior – LexisNexis (Codes Bleus)
 
-⇨ du <input type="date" value="2017-01-01" readonly>
-  au <input type="date" value="2018-12-31" readonly> **2 ans**
+⇨ du <input type="date" value="2016-01-01" readonly>
+  au <input type="date" value="2018-12-31" readonly> **3 ans**
 
 Pour le compte des éditions LexisNexis à Paris.
 
@@ -136,7 +136,7 @@ Pour le compte des éditions LexisNexis à Paris.
 
 > **Environnement métier :** Édition, Publication, Droit, Juridique, Workflow, Formation.
 
-#### Ingénieur Logiciel Sénior – Service composition numérique
+#### Ingénieur Logiciel Sénior – LexisNexis (Jurisclasseur)
 
 ⇨ du <input type="date" value="2016-01-01" readonly>
   au <input type="date" value="2016-12-31" readonly> **1 an**
@@ -155,10 +155,10 @@ Pour le compte des éditions LexisNexis à Paris.
 
 > **Environnement métier :** Édition, Publication, Droit, Juridique, Workflow, Formation.
 
-#### Ingénieur Logiciel Sénior – LexisNexis (Jurisclasseur)
+#### Ingénieur Logiciel Sénior – Service composition numérique
 
 ⇨ du <input type="date" value="2013-01-01" readonly>
-  au <input type="date" value="2015-12-31" readonly> **3 ans**
+  au <input type="date" value="2015-12-31" readonly> **2 ans 11 mois**
 
 Au sein du service Composition Numérique, j’ai participé au développement d’un outil de conversion de documents
 Word en XML (format DocBook).
@@ -233,7 +233,7 @@ Pour le compte des Éditions Joly à Paris.
 #### Ingénieur Logiciel – BnF
 
 ⇨ du <input type="date" value="2006-01-01" readonly>
-  au <input type="date" value="2007-12-31" readonly> **2 ans**
+  au <input type="date" value="2007-12-31" readonly> **1 an**
 
 Pour le compte de la Bibliothèque nationale de France (BnF) à Paris et autres collectivités territoriales.
 
@@ -248,7 +248,7 @@ Pour le compte de la Bibliothèque nationale de France (BnF) à Paris et autres 
 #### Ingénieur Logiciel – OPOCE
 
 ⇨ du <input type="date" value="2004-02-01" readonly>
-  au <input type="date" value="2007-12-31" readonly> **3 ans 11 mois**
+  au <input type="date" value="2006-12-31" readonly> **2 ans 10 mois**
 
 Pour le compte de l’Office des Publications Officielles des Communautés Européennes (OPOCE) au Luxembourg.
 
@@ -263,7 +263,7 @@ Pour le compte de l’Office des Publications Officielles des Communautés Europ
 ### Ingénieur logiciel
 
 ⇨ du <input type="date" value="2003-10-01" readonly>
-  au <input type="date" value="2004-01-30" readonly> **4 mois**
+  au <input type="date" value="2004-01-30" readonly> **1 an 3 mois**
   chez Lavauzelle (Panazol 87)
 
 Développement et mise au point d’une application de rétro conversion en SGML depuis le système de composition

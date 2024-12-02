@@ -55,99 +55,209 @@ and production studies in France and Europe, spanning short, medium, and long te
   [Scalian](https://www.scalian.com/notre-groupe/nos-implantations/rennes/) to make the software internationally
   distributable (Belgium, Austria, etc.) and enable service sales.
 
-> **Tech Stack:** Agile, Arrow, Black, CentOS, CI/CD, Confluence, Docker, ELK, FastAPI, GitHub,
+> **Technical Environment:** Agile, Arrow, Black, CentOS, CI/CD, Confluence, Docker, ELK, FastAPI, GitHub,
 > GitLab, Hatch, iSort, JavaScript, Jenkins, Jira, MyPy, OpenAPI, Pandas, PostgreSQL, pytest, Python, React,
 > Redis, REST, SLURM, SonarCloud, SQLAlchemy, SQLite, Swagger, TypeScript, Ubuntu, Windows.
 
 > **Business Domain:** Antares, Documentation, Electricity, Energy, Environment, Training, Project,
 > Recruitment, Scrum, Simulation, Specification, Technology Watch.
 
-### Senior Software Engineer — Technical Leader
+### Senior Software Engineer
 
 ⇨ From <input type="date" value="2004-02-23" readonly>
-  To <input type="date" value="2022-12-31" readonly> **18 years and 10 months**
-  at Luminess (formerly Jouve, Mayenne 53)
+  to <input type="date" value="2022-12-31" readonly> **18 years 10 months**
+  at Luminess (formerly Jouve in Mayenne, France)
 
-At Luminess, I held software development and technical leadership roles across major international projects in various
-sectors such as digitization, patent management, legal publishing, and document dematerialization.
+#### Senior Software Engineer - NF544
 
-**Key Responsibilities:**
+⇨ From <input type="date" value="2021-09-01" readonly>
+  to <input type="date" value="2022-12-31" readonly> **1 year 3 months**
 
--   **Digitization and Dematerialization (NF 544 Standard)**:
-    Designed workflows and web services in Python for BPO processes compliant with the [NF 544][nf-544] standard.
-    Contributed to developing a generic workflow model, team training, and technical documentation.
+Within the General Tools service:
 
-    > **Tech Stack:** Python, Django REST Framework, PostgreSQL, pytest, Agile (Scrum).
+- Collaborated with a technical leader.
+- Developed generic workflows and web services to implement the [NF 544][nf-544] standard (faithful digitization of original documents) within BPO workflows (generic workflow model development).
+- Developed batch modules for the generic workflow in Python.
+- Developed Python web services using Django REST framework.
+- Created scripts for migrating the PostgreSQL database.
+- Wrote and updated technical documentation using Sphinx.
+- Trained developers to implement a digitization workflow compliant with the NF 544 standard.
+- Followed Agile methodology under the guidance of a Scrum Master (iceScrum).
 
-    [nf-544]: https://certification.afnor.org/services/prestation-numerisation-fidele-document-support-papier
+> **Technical Environment:** Django REST framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, REST,
+> Sphinx, Windows.
 
--   **Patent Management ([USPTO](https://www.uspto.gov/), USA)**:
-    Technical leader on a patent processing project, leading teams in the US and Romania, integrating OCR tools
-    and data entry assistance.
-    Implemented development best practices and testing protocols.
+> **Business Domain:** Digitization, Scanning, Archiving, Workflow, Web Services, NF 544 Standard, Agility.
 
-    > **Tech Stack:** Python, Django REST Framework, PostgreSQL, pytest, OCR, Agile (Scrum).
+[nf-544]: https://certification.afnor.org/services/prestation-numerisation-fidele-document-support-papier
 
--   **Legal Publishing ([LexisNexis](https://www.lexisnexis.com/), Paris)**:
-    Developed workflows for typesetting legal publications (Codes Bleus). Streamlined processes for updating
-    the document repository and trained teams in France and Madagascar.
+#### Senior Software Engineer - USPTO
 
-    > **Tech Stack:** Excel, Python, pytest, Sphinx, Windows, XML, XSLT.
+⇨ From <input type="date" value="2019-01-01" readonly>
+  to <input type="date" value="2021-08-30" readonly> **2 ans 7 months**
 
--   **Legal Publishing (LexisNexis, Paris)**:
-    Designed and developed a workflow for typesetting legal publications (JurisClasseur).
-    Streamlined processes for updating loose-leaf publications and trained teams in France and Madagascar.
-    Implemented development best practices and testing protocols.
+For the United States Patent and Trademark Office (USPTO) in Omaha, Nebraska:
 
-    > **Tech Stack:** Python, pytest, Sphinx, Windows, XML, XSLT.
+- Served as a technical leader, overseeing the development team in the United States and Romania.
+- Designed and developed a workflow for patent application processing.
+- Industrialized the patent processing procedures.
+- Integrated OCR (Optical Character Recognition) batch tools to assist data entry.
+- Integrated interactive patent application entry tools.
+- Performed corrective and evolutionary maintenance on the workflow.
+- Conducted training for colleagues in the United States and Romania.
+- Implemented best development practices.
+- Followed Agile methodology under the guidance of a Scrum Master (JIRA).
 
--   **Document Conversion (Luminess, Chennai – India)**:
-    Developed a Word-to-XML (DocBook format) conversion tool as a technical leader.
-    Led an Indian development team, drafted technical specifications in English, and trained team members.
+> **Technical Environment:** Django REST framework, Git, GitLab, Linux, PostgreSQL, pytest, Python, Sphinx.
 
-    > **Tech Stack:** Python, MathML, DocBook, XML, XSLT.
+> **Business Domain:** Patents, Publishing, Legal, Workflow, Training.
 
--   **Document Dematerialization**:
-    Developed workflows for managing administrative document and invoice flows (AXA, BNP Paribas, etc.).
+#### Senior Software Engineer – LexisNexis (Codes Bleus)
 
-    > **Tech Stack:** Python, MySQL, REST.
+⇨ From <input type="date" value="2016-01-01" readonly>
+  to <input type="date" value="2018-12-31" readonly> **3 years**
 
--   **CMS (Ministry of Ecology and Sustainable Development)**:
-    Designed a CMS for publishing environmental statistics.
-    Developed specific PHP modules, led a development team in Senegal, and ensured compliance with RGAA
-    (General Accessibility Standards for Administrations).
+For LexisNexis in Paris:
 
-    > **Tech Stack:** Apache, PHP, TYPO3, MySQL, RGAA, HTML, CSS.
+- Designed and developed a layout workflow for legal publications (Codes Bleus).
+- Industrialized the process of updating the document repository (revision marks).
+- Performed corrective and evolutionary maintenance on the workflow.
+- Wrote technical documentation.
+- Conducted user training.
+- Trained colleagues in France.
+- Implemented best development practices.
 
--   **CMS and Publishing (Éditions Joly, Paris)**:
-    Implemented a CMS for updating legal studies and forms.
-    Developed and deployed a publishing system in Java, integrating it with a composition and layout workflow.
+> **Technical Environment:** Excel, Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
 
-    > **Tech Stack:** Java, CMS, XML, XSLT, HTML, CSS.
+> **Business Domain:** Publishing, Legal, Workflow, Training.
 
--   **Digitization of Heritage Collections (National Library of France, Paris)**:
-    Developed a digitization and indexing workflow for heritage documents for [Gallica][gallica].
-    Implemented development best practices, UML design, and Perl development.
+#### Senior Software Engineer – LexisNexis (Jurisclasseur)
 
-    > **Tech Stack:** Perl, Subversion, UML, XML, XSLT.
+⇨ From <input type="date" value="2016-01-01" readonly>
+  to <input type="date" value="2016-12-31" readonly> **1 year**
 
-    [gallica]: https://gallica.bnf.fr/
+For LexisNexis in Paris:
 
--   **Typesetting of Legal Documents ([OPOCE](https://op.europa.eu/), Luxembourg)**:
-    Developed a workflow for formatting (MEF) and typesetting (MEP) official EU publications in 24 languages.
-    Industrialized production processes.
+- Designed and developed a layout workflow for legal publications (JurisClasseur).
+- Industrialized the process of updating mobile sheets.
+- Performed corrective and evolutionary maintenance on the workflow.
+- Wrote technical documentation.
+- Conducted user training.
+- Trained colleagues in France and Madagascar.
+- Implemented best development practices.
 
-    > **Tech Stack:** PDF, Python, Shell, Subversion, Word, XML, XSLT.
+> **Technical Environment:** Git, GitLab, Linux, pytest, Python, Sphinx, Windows, XML, XSLT.
+
+> **Business Domain:** Publishing, Legal, Workflow, Training, Documentation.
+
+#### Senior Software Engineer - Pre-presse service
+
+⇨ From <input type="date" value="2013-01-01" readonly>
+  to <input type="date" value="2015-12-31" readonly> **2 years 11 months**
+
+In the Pre-press service, with a second technical leader:
+
+- Took on the role of technical leader, overseeing the development team in Chennai, India.
+- Wrote technical specifications.
+- Stayed updated on document formats, including handling images, tables, and mathematical formulas.
+- Trained colleagues in India.
+- Implemented best development practices.
+- Developed a conversion tool in Python and XSLT for Word to XML (DocBook format).
+- Followed Agile methodology (Scrum).
+
+> **Technical Environment:** DocBook, Git, GitLab, Linux, Python, Unit Testing, Word, XML, XSLT.
+
+> **Business Domain:** Publishing, Workflow, Training, Conversion, Microsoft Office, Technology Watch.
+
+#### Senior Software Engineer – BPO
+
+⇨ From <input type="date" value="2011-01-01" readonly>
+  to <input type="date" value="2012-12-31" readonly> **2 years**
+
+Within LUMINESS’ Business Process Outsourcing (BPO) service:
+
+- Managed document flows and validation processes.
+- Handled physical and digital archiving.
+- Implemented best development practices.
+- Developed Python-based workflows and web services.
+- Followed Agile methodology under the guidance of a Scrum Master (iceScrum).
+
+> **Technical Environment:** Git, GitLab, Linux, MySQL, Python, REST, Unit Testing, Windows.
+
+> **Business Domain:** Digitization, Invoicing, Insurance, Archiving, Workflow, Web Services.
+
+#### Senior Software Engineer – SeOS
+
+⇨ From <input type="date" value="2010-01-01" readonly>
+  to <input type="date" value="2010-12-31" readonly> **1 year**
+
+For the Observatoire des Statistiques (Statistics Observatory) at the Ministry of Ecology and Sustainable Development:
+
+- Developed a TYPO3 CMS for publishing environmental statistics.
+- Designed and developed specific modules in PHP.
+- Led the development team in Senegal.
+- Implemented best development practices.
+- Ensured compliance with RGAA (General Accessibility Reference for Administrations).
+- Wrote design documents and technical specifications.
+- Created user documentation.
+- Conducted user training.
+
+> **Technical Environment:** Apache, CSS, HTML, JavaScript, Linux, MySQL, PHP, Subversion, TYPO3.
+
+> **Business Domain:** Statistics, Environment, Ecology, Sustainable Development, Publishing, CMS, RGAA.
+
+#### Software Engineer – Éditions Joly
+
+⇨ From <input type="date" value="2008-01-01" readonly>
+  to <input type="date" value="2009-12-31" readonly> **2 years**
+
+For Éditions Joly in Paris:
+
+- Set up a Content Management System (CMS) for updating legal studies and forms.
+- Developed and implemented a Java-based publishing system.
+- Integrated with a publication workflow.
+
+> **Technical Environment:** CSS, HTML, Java, Subversion, Windows, XML, XSLT.
+
+> **Business Domain:** Publishing, Legal, CMS.
+
+#### Software Engineer – BnF
+
+⇨ From <input type="date" value="2006-01-01" readonly>
+  to <input type="date" value="2007-12-31" readonly> **1 year**
+
+For the Bibliothèque nationale de France (BnF) in Paris and other local authorities:
+
+- Developed a workflow for digitizing and indexing heritage documents.
+- Implemented best development practices.
+- Worked with UML and Perl.
+
+> **Technical Environment:** Linux, Perl, Subversion, UML, XML, XSLT.
+
+> **Business Domain:** Digitization, Heritage, Metadata Management.
+
+#### Software Engineer – OPOCE
+
+⇨ From <input type="date" value="2004-02-01" readonly>
+  to <input type="date" value="2006-12-31" readonly> **2 years 10 months**
+
+I worked for the Office of Official Publications of the European Communities (OPOCE) in Luxembourg. My responsibilities
+included developing a workflow for formatting (MEF) and layout (MEP) of official publications from the European Union
+in 24 languages. I also contributed to industrializing production processes.
+
+> **Technical Environment:** Linux, PDF, Python, Shell, Subversion, Word, XML, XSLT.
+
+> **Business Domain:** Documentation, Languages, Publication, European Union, Layout.
 
 ### Software Engineer
 
 ⇨ From <input type="date" value="2003-10-01" readonly>
-  to <input type="date" value="2004-01-30" readonly> **4 months**
+  to <input type="date" value="2004-01-30" readonly> **1 year 3 months**
   at Lavauzelle (Panazol, France)
 
 Developed and fine-tuned an SGML retro-conversion application from the Miles 33 Oasys composition system.
 
-> **Tech Stack:** C++, DSSSL, Miles 33 Oasys, OmniMark (Stilo), SGML, Windows.
+> **Technical Environment:** C++, DSSSL, Miles 33 Oasys, OmniMark (Stilo), SGML, Windows.
 
 > **Business Domain:** Publishing, SGML, Composition.
 
@@ -159,7 +269,7 @@ Developed and fine-tuned an SGML retro-conversion application from the Miles 33 
 
 Developed and fine-tuned an SGML retro-conversion application from the Miles 33 Oasys composition system on behalf of Lavauzelle.
 
-> **Tech Stack:** DSSSL, Miles 33 Oasys, OmniMark (Stilo), SGML, Windows.
+> **Technical Environment:** DSSSL, Miles 33 Oasys, OmniMark (Stilo), SGML, Windows.
 
 > **Business Domain:** Publishing, SGML, Composition.
 
@@ -178,7 +288,7 @@ qualification contract for one year.
 Additionally, I handled client relations (correspondence and phone calls) and subcontracting tasks (prospecting,
 writing specifications, and creating mockups).
 
-> **Tech Stack:** Dreamweaver, HTML, JavaScript, macOS, Windows, Word Basic.
+> **Technical Environment:** Dreamweaver, HTML, JavaScript, macOS, Windows, Word Basic.
 
 > **Business Domain:** Publishing, Publication, Training, Client Relations, Subcontracting, Municipalities,
 > Local Authorities.
@@ -218,7 +328,7 @@ ENGINEERING DIPLOMA: Software Engineering - Software Production
 
 ### Tools and Programming Languages
 
-Agile, Apache, Arrow, Black, C++, CentOS, CI/CD, Confluence, CSS, Django REST Framework, DocBook, Docker,
+Agile, Apache, Arrow, Black, C++, CentOS, CI/CD, Confluence, CSS, Django REST framework, DocBook, Docker,
 Dreamweaver, DSSSL, ELK, Excel, FastAPI, Git, GitHub, GitLab, Hatch, HTML, iSort, Java, JavaScript, Jenkins,
 Jira, Linux, macOS, Miles 33 Oasys, MyPy, MySQL, OmniMark (Stilo), OpenAPI, Pandas, PDF, Perl, PHP,
 PostgreSQL, pytest, Python, React, Redis, REST, SGML, Shell, SLURM, SonarCloud, Sphinx, SQLAlchemy, SQLite,
