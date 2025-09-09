@@ -17,6 +17,29 @@ Ich bin ein Softwareentwickler mit über 30 Jahren Erfahrung in der Entwicklung 
 
 ## Erfahrungen
 
+### Tech Lead
+
+⇨ vom <input type="date" value="2025-02-24" readonly> bis heute bei [DFYA](https://dfya.io/)
+
+Entwicklung einer SaaS-Anwendung in einem französisch-algerischen Team.
+
+**Rolle als Tech Lead:**
+
+- Leitung eines kleinen Teams französischer und algerischer Entwickler.
+- Moderation der Daily Meetings in einem agilen Kontext.
+- Entwicklung von Backend-Funktionen mit Flask und SQLAlchemy.
+- Verwaltung der PostgreSQL-Datenbank.
+- Entwicklung von Frontend-Komponenten in React.
+- Integration von Agentic AI in die SaaS-Anwendung.
+- Verfassen von Unit- und Integrationstests zur Sicherstellung der Codequalität.
+- Pflege der technischen Dokumentation.
+- Implementierung und Wartung von CI/CD-Pipelines mit GitHub Actions.
+- Bereitstellung und Wartung der Infrastruktur auf Azure.
+
+> **Technisches Umfeld:** Agentic AI, Azure, CI/CD, Flask, GitHub, GitHub Actions, IA agentique, PostgreSQL, pytest, Python, React, SaaS, SQLAlchemy, Integrationstests, Unit-Tests.
+
+> **Fachliches Umfeld:** SaaS-Anwendung, Agile Entwicklung, Teamleitung, Daily Meetings, Internationales Team.
+
 ### Beratungsingenieur — Technischer Leiter
 
 ⇨ von <input type="date" value="2023-01-09" readonly>
@@ -119,8 +142,8 @@ Ich habe für das United States Patent and Trademark Office (USPTO) in Omaha, Ne
 
 #### Senior Softwareingenieur – LexisNexis (Codes Bleus)
 
-⇨ von <input type="date" value="2016-01-01" readonly>
-  bis <input type="date" value="2018-12-31" readonly> **3 Jahre**
+⇨ von <input type="date" value="2017-01-01" readonly>
+  bis <input type="date" value="2018-12-31" readonly> **2 Jahre**
 
 Für LexisNexis in Paris tätig.
 
@@ -275,7 +298,7 @@ Entwicklung und Feinabstimmung einer SGML-Retrokonversionsanwendung aus dem Mile
 ### Informatik-Ingenieur für Projektstudien
 
 ⇨ Von <input type="date" value="2003-04-01" readonly>
-  bis <input type="date" value="2004-08-31" readonly> **1 Jahr 5 Monate**
+  bis <input type="date" value="2003-09-30" readonly> **6 Monate**
   bei Pixellence (Verneuil-en-Halatte, Frankreich)
 
 Entwicklung und Feinabstimmung einer SGML-Retrokonversionsanwendung aus dem Miles 33 Oasys-Kompositionssystem für
@@ -402,4 +425,3 @@ Ich habe auch Freizeitboxen betrieben.
   für Python-Bibliotheken.
 - [cookiecutter-pypackage-minimal](https://github.com/kragniz/cookiecutter-pypackage-minimal) – Eine minimale Vorlage
   für Python-Pakete
-

@@ -299,7 +299,7 @@ Miles 33 Oasys.
 ### Ingénieur informaticien chargé d’étude projet
 
 ⇨ du <input type="date" value="2003-04-01" readonly>
-  au <input type="date" value="2004-08-31" readonly> **1 an 5 mois**
+  au <input type="date" value="2003-09-30" readonly> **6 mois**
   chez Pixellence (Verneuil-en-Halatte 60)
 
 Développement et mise au point d’une application de rétro conversion en SGML depuis le système de composition

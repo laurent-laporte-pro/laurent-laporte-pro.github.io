@@ -17,6 +17,29 @@ I am a software developer with over 30 years of experience in enterprise softwar
 
 ## Experience
 
+### Tech Lead
+
+⇨ From <input type="date" value="2025-02-24" readonly> to present at [DFYA](https://dfya.io/)
+
+Development of a SaaS application within a French-Algerian team.
+
+**Tech Lead Role:**
+
+- Leading a small team of French and Algerian developers.
+- Facilitating Daily Meetings in an agile context.
+- Developing backend features with Flask and SQLAlchemy.
+- Managing the PostgreSQL database.
+- Developing frontend components in React.
+- Integrating Agentic AI into the SaaS application.
+- Writing unit and integration tests to ensure code quality.
+- Maintaining technical documentation.
+- Setting up and maintaining CI/CD pipelines with GitHub Actions.
+- Deploying and maintaining infrastructure on Azure.
+
+> **Technical Environment:** Agentic AI, Azure, CI/CD, Flask, GitHub, GitHub Actions, IA agentique, PostgreSQL, pytest, Python, React, SaaS, SQLAlchemy, Integration tests, Unit tests.
+
+> **Business Domain:** SaaS Application, Agile Development, Team Leadership, Daily Meetings, International Team.
+
 ### Consultant Engineer — Technical Leader
 
 ⇨ From <input type="date" value="2023-01-09" readonly>
@@ -114,8 +137,8 @@ For the United States Patent and Trademark Office (USPTO) in Omaha, Nebraska:
 
 #### Senior Software Engineer – LexisNexis (Codes Bleus)
 
-⇨ From <input type="date" value="2016-01-01" readonly>
-  to <input type="date" value="2018-12-31" readonly> **3 years**
+⇨ From <input type="date" value="2017-01-01" readonly>
+  to <input type="date" value="2018-12-31" readonly> **2 years**
 
 For LexisNexis in Paris:
 
@@ -252,7 +275,7 @@ in 24 languages. I also contributed to industrializing production processes.
 ### Software Engineer
 
 ⇨ From <input type="date" value="2003-10-01" readonly>
-  to <input type="date" value="2004-01-30" readonly> **1 year 3 months**
+  to <input type="date" value="2004-01-30" readonly> **4 months**
   at Lavauzelle (Panazol, France)
 
 Developed and fine-tuned an SGML retro-conversion application from the Miles 33 Oasys composition system.
@@ -264,7 +287,7 @@ Developed and fine-tuned an SGML retro-conversion application from the Miles 33 
 ### Project Study Computer Engineer
 
 ⇨ From <input type="date" value="2003-04-01" readonly>
-  to <input type="date" value="2004-08-31" readonly> **1 year 5 months**
+  to <input type="date" value="2003-09-30" readonly> **6 months**
   at Pixellence (Verneuil-en-Halatte, France)
 
 Developed and fine-tuned an SGML retro-conversion application from the Miles 33 Oasys composition system on behalf of Lavauzelle.
