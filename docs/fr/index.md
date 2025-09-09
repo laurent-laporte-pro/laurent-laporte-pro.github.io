@@ -1,7 +1,7 @@
 ---
 title: 🇫🇷 Profil Professionnel
 description: Présentation de mon parcours professionnel et de mes compétences.
-date: 2024-07-14
+date: 2025-09-09
 tags: [ curriculum vitæ, curriculum vitae, CV, parcours professionnel, compétences, formation ]
 ---
 
@@ -16,6 +16,29 @@ tags: [ curriculum vitæ, curriculum vitae, CV, parcours professionnel, compéte
 Je suis un développeur logiciel avec plus de 30 ans d’expérience dans le développement de logiciels d’entreprise.
 
 ## Expériences
+
+### Tech Lead
+
+⇨ du <input type="date" value="2025-02-24" readonly> à aujourd'hui chez [DFYA](https://dfya.io/)
+
+Développement d'une application SaaS au sein d'une équipe franco-algérienne.
+
+**Rôle de Tech Lead :**
+
+- Encadrer une petite équipe de développeurs français et algériens.
+- Animer les Daily Meetings dans un contexte agile.
+- Développer des fonctionnalités backend avec Flask et SQLAlchemy.
+- Gérer la base de données PostgreSQL.
+- Développer des composants frontend en React.
+- Intégrer de l'IA agentique (Agentic AI) dans l'application SaaS.
+- Rédiger les tests unitaires et d'intégration pour garantir la qualité du code.
+- Maintenir la documentation technique.
+- Mettre en place et maintenir les pipelines CI/CD avec GitHub Actions.
+- Déployer et maintenir l'infrastructure sur Azure.
+
+> **Environnement technique :** Agentic AI, Azure, CI/CD, Flask, GitHub, GitHub Actions, IA agentique, PostgreSQL, pytest, Python, React, SaaS, SQLAlchemy, Tests d'intégration, Tests unitaires.
+
+> **Environnement métier :** Application SaaS, Développement agile, Encadrement d'équipe, Daily Meetings, Équipe internationale.
 
 ### Ingénieur conseil — Technical Leader
 
@@ -119,8 +142,8 @@ Pour le compte de l’Office des Brevets Américain (USPTO) à Omaha (Nebraska).
 
 #### Ingénieur Logiciel Sénior – LexisNexis (Codes Bleus)
 
-⇨ du <input type="date" value="2016-01-01" readonly>
-  au <input type="date" value="2018-12-31" readonly> **3 ans**
+⇨ du <input type="date" value="2017-01-01" readonly>
+  au <input type="date" value="2018-12-31" readonly> **2 ans**
 
 Pour le compte des éditions LexisNexis à Paris.
 
@@ -341,10 +364,10 @@ DIPLÔME D’INGÉNIEUR : Génie Logiciel - Production Logiciel
 
 ### Outils et langages de programmation
 
-Agile, Apache, Arrow, Black, C++, CentOS, CI/CD, Confluence, CSS, Django REST framework, DocBook, Docker,
-Dreamweaver, DSSSL, ELK, Excel, FastAPI, Git, GitHub, GitLab, Hatch, HTML, iSort, Java, JavaScript, Jenkins,
+Agile, Apache, Arrow, Azure, Black, C++, CentOS, CI/CD, Confluence, CSS, Django REST framework, DocBook, Docker,
+Dreamweaver, DSSSL, ELK, Excel, FastAPI, Flask, Git, GitHub, GitLab, Hatch, HTML, iSort, Java, JavaScript, Jenkins,
 Jira, Linux, macOS, Miles 33 Oasys, MyPy, MySQL, OmniMark (Stilo), OpenAPI, Pandas, PDF, Perl, PHP,
-PostgreSQL, pytest, Python, React, Redis, REST, SGML, Shell, SLURM, SonarCloud, Sphinx, SQLAlchemy, SQLite,
+PostgreSQL, pytest, Python, React, Redis, REST, SaaS, SGML, Shell, SLURM, SonarCloud, Sphinx, SQLAlchemy, SQLite,
 Subversion, Swagger, TypeScript, TYPO3, Ubuntu, UML, Unit Testing, Windows, Word, Word Basic, XML, XSLT.
 
 ### Mise en œuvre
