@@ -7,7 +7,7 @@ tags: [ curriculum vitae, Lebenslauf, beruflicher Werdegang, Kompetenzen, Ausbil
 
 ## Über mich
 
-🏠 **Adresse:** 3 rue des lilas, 53440 La Bazoge-Montpinçon, Frankreich
+🏠 **Adresse:** 4 place Georges Clémenceau, 53100 Mayenne, Frankreich
 
 📞 **Telefon:** [(+33) 6 18 99 30 01](tel:+33618993001)
 

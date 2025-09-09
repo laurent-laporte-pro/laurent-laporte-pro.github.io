@@ -7,7 +7,7 @@ tags: [ curriculum vitæ, curriculum vitae, CV, parcours professionnel, compéte
 
 ## À propos
 
-🏠 **Adresse :** 3 rue des lilas, 53440 La Bazoge-Montpinçon
+🏠 **Adresse :** 4 place Georges Clémenceau, 53100 Mayenne
 
 📞 **Tél. :** [(+33) 6 18 99 30 01](tel:+33618993001)
 

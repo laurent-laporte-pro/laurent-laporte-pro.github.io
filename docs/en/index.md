@@ -7,7 +7,7 @@ tags: [ curriculum vitae, CV, professional career, skills, training ]
 
 ## About
 
-🏠 **Address:** 3 rue des lilas, 53440 La Bazoge-Montpinçon, France
+🏠 **Address:** 4 place Georges Clémenceau, 53100 Mayenne, France
 
 📞 **Phone:** [(+33) 6 18 99 30 01](tel:+33618993001)
 
